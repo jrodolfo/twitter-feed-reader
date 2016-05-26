@@ -1,0 +1,220 @@
+{
+	"possibly_sensitive_appealable": false,
+	"extended_entities": {
+		"media": [{
+			"display_url": "pic.twitter.com/mvEIQxIbpY",
+			"source_user_id": 775956193,
+			"type": "photo",
+			"media_url": "http://pbs.twimg.com/media/CjVmbRVUkAAYBGh.jpg",
+			"source_status_id": 735606734362955776,
+			"url": "https://t.co/mvEIQxIbpY",
+			"indices": [109,
+			132],
+			"sizes": {
+				"small": {
+					"w": 340,
+					"h": 340,
+					"resize": "fit"
+				},
+				"large": {
+					"w": 1024,
+					"h": 1024,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"medium": {
+					"w": 600,
+					"h": 600,
+					"resize": "fit"
+				}
+			},
+			"id_str": "735606732840275968",
+			"expanded_url": "http://twitter.com/indoblue82/status/735606734362955776/photo/1",
+			"source_status_id_str": "735606734362955776",
+			"media_url_https": "https://pbs.twimg.com/media/CjVmbRVUkAAYBGh.jpg",
+			"id": 735606732840275968,
+			"source_user_id_str": "775956193"
+		}]
+	},
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_status_id": null,
+	"created_at": "Wed May 25 23:03:11 +0000 2016",
+	"in_reply_to_user_id_str": null,
+	"source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it<\/a>",
+	"retweet_count": 1,
+	"retweeted": false,
+	"geo": {
+		"coordinates": [44.6537582,
+		-63.6134827],
+		"type": "Point"
+	},
+	"in_reply_to_screen_name": null,
+	"is_quote_status": false,
+	"id_str": "735607174412394496",
+	"in_reply_to_user_id": null,
+	"favorite_count": 1,
+	"id": 735607174412394496,
+	"text": "Beautiful evening! Taking the King's Wharf water taxi to #Halifax #Dartmouth @harbourtaxi Via @c.r.macdonald https://t.co/mvEIQxIbpY",
+	"place": {
+		"country_code": "CA",
+		"country": "Canada",
+		"contained_within": [],
+		"full_name": "Halifax, Nova Scotia",
+		"bounding_box": {
+			"coordinates": [[[-64.237659,
+			43.366298],
+			[-59.385802,
+			43.366298],
+			[-59.385802,
+			45.27617],
+			[-64.237659,
+			45.27617]]],
+			"type": "Polygon"
+		},
+		"place_type": "city",
+		"name": "Halifax",
+		"attributes": {
+			
+		},
+		"id": "5d058f2e9fe1516c",
+		"url": "https://api.twitter.com/1.1/geo/id/5d058f2e9fe1516c.json"
+	},
+	"lang": "en",
+	"favorited": false,
+	"possibly_sensitive": false,
+	"coordinates": {
+		"coordinates": [-63.6134827,
+		44.6537582],
+		"type": "Point"
+	},
+	"truncated": false,
+	"entities": {
+		"urls": [],
+		"hashtags": [{
+			"indices": [57,
+			65],
+			"text": "Halifax"
+		},
+		{
+			"indices": [66,
+			76],
+			"text": "Dartmouth"
+		}],
+		"media": [{
+			"display_url": "pic.twitter.com/mvEIQxIbpY",
+			"source_user_id": 775956193,
+			"type": "photo",
+			"media_url": "http://pbs.twimg.com/media/CjVmbRVUkAAYBGh.jpg",
+			"source_status_id": 735606734362955776,
+			"url": "https://t.co/mvEIQxIbpY",
+			"indices": [109,
+			132],
+			"sizes": {
+				"small": {
+					"w": 340,
+					"h": 340,
+					"resize": "fit"
+				},
+				"large": {
+					"w": 1024,
+					"h": 1024,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"medium": {
+					"w": 600,
+					"h": 600,
+					"resize": "fit"
+				}
+			},
+			"id_str": "735606732840275968",
+			"expanded_url": "http://twitter.com/indoblue82/status/735606734362955776/photo/1",
+			"source_status_id_str": "735606734362955776",
+			"media_url_https": "https://pbs.twimg.com/media/CjVmbRVUkAAYBGh.jpg",
+			"id": 735606732840275968,
+			"source_user_id_str": "775956193"
+		}],
+		"user_mentions": [{
+			"indices": [77,
+			89],
+			"screen_name": "harbourtaxi",
+			"id_str": "3351016847",
+			"name": "harbourtaxi",
+			"id": 3351016847
+		},
+		{
+			"indices": [94,
+			96],
+			"screen_name": "c",
+			"id_str": "632173",
+			"name": "Coley Pauline Forest",
+			"id": 632173
+		}],
+		"symbols": []
+	},
+	"contributors": null,
+	"user": {
+		"utc_offset": -10800,
+		"friends_count": 30981,
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/693378590960779265/JYO9QRaF_normal.png",
+		"listed_count": 956,
+		"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/66355533/Untitled-1.png",
+		"default_profile_image": false,
+		"favourites_count": 133,
+		"description": "Often imitated, never duplicated. Breaking Halifax Nova Scotia news, weather and lifestyle-type stuff. Hello.",
+		"created_at": "Tue Sep 16 10:02:05 +0000 2008",
+		"is_translator": false,
+		"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/66355533/Untitled-1.png",
+		"protected": false,
+		"screen_name": "haligonia",
+		"id_str": "16308920",
+		"profile_link_color": "7E827D",
+		"is_translation_enabled": false,
+		"id": 16308920,
+		"geo_enabled": true,
+		"profile_background_color": "FFFFFF",
+		"lang": "en",
+		"has_extended_profile": false,
+		"profile_sidebar_border_color": "000000",
+		"profile_text_color": "383838",
+		"verified": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/693378590960779265/JYO9QRaF_normal.png",
+		"time_zone": "Atlantic Time (Canada)",
+		"url": "http://t.co/3K7Lz3Hwf5",
+		"contributors_enabled": false,
+		"profile_background_tile": false,
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/16308920/1460990915",
+		"entities": {
+			"description": {
+				"urls": []
+			},
+			"url": {
+				"urls": [{
+					"display_url": "haligonia.ca",
+					"indices": [0,
+					22],
+					"expanded_url": "http://www.haligonia.ca",
+					"url": "http://t.co/3K7Lz3Hwf5"
+				}]
+			}
+		},
+		"statuses_count": 65231,
+		"follow_request_sent": false,
+		"followers_count": 96535,
+		"profile_use_background_image": true,
+		"default_profile": false,
+		"following": true,
+		"name": "haligonia: hfx news",
+		"location": "Halifax Nova Scotia Canada",
+		"profile_sidebar_fill_color": "D0CDCD",
+		"notifications": false
+	}
+}

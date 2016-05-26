@@ -1,0 +1,329 @@
+{
+	"possibly_sensitive_appealable": false,
+	"extended_entities": {
+		"media": [{
+			"display_url": "pic.twitter.com/kOYpTqpM90",
+			"source_user_id": 88944711,
+			"type": "photo",
+			"media_url": "http://pbs.twimg.com/media/CjVft2HWUAEo1Xe.jpg",
+			"source_status_id": 735599355906928640,
+			"url": "https://t.co/kOYpTqpM90",
+			"indices": [121,
+			140],
+			"sizes": {
+				"small": {
+					"w": 340,
+					"h": 255,
+					"resize": "fit"
+				},
+				"large": {
+					"w": 1024,
+					"h": 768,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"medium": {
+					"w": 600,
+					"h": 450,
+					"resize": "fit"
+				}
+			},
+			"id_str": "735599355370033153",
+			"expanded_url": "http://twitter.com/MikeSavageHFX/status/735599355906928640/photo/1",
+			"source_status_id_str": "735599355906928640",
+			"media_url_https": "https://pbs.twimg.com/media/CjVft2HWUAEo1Xe.jpg",
+			"id": 735599355370033153,
+			"source_user_id_str": "88944711"
+		}]
+	},
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_status_id": null,
+	"created_at": "Wed May 25 23:47:34 +0000 2016",
+	"in_reply_to_user_id_str": null,
+	"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+	"retweeted_status": {
+		"possibly_sensitive_appealable": false,
+		"extended_entities": {
+			"media": [{
+				"display_url": "pic.twitter.com/kOYpTqpM90",
+				"indices": [102,
+				125],
+				"sizes": {
+					"small": {
+						"w": 340,
+						"h": 255,
+						"resize": "fit"
+					},
+					"large": {
+						"w": 1024,
+						"h": 768,
+						"resize": "fit"
+					},
+					"thumb": {
+						"w": 150,
+						"h": 150,
+						"resize": "crop"
+					},
+					"medium": {
+						"w": 600,
+						"h": 450,
+						"resize": "fit"
+					}
+				},
+				"id_str": "735599355370033153",
+				"expanded_url": "http://twitter.com/MikeSavageHFX/status/735599355906928640/photo/1",
+				"media_url_https": "https://pbs.twimg.com/media/CjVft2HWUAEo1Xe.jpg",
+				"id": 735599355370033153,
+				"type": "photo",
+				"media_url": "http://pbs.twimg.com/media/CjVft2HWUAEo1Xe.jpg",
+				"url": "https://t.co/kOYpTqpM90"
+			}]
+		},
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_status_id": null,
+		"created_at": "Wed May 25 22:32:07 +0000 2016",
+		"in_reply_to_user_id_str": null,
+		"source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS<\/a>",
+		"retweet_count": 4,
+		"retweeted": false,
+		"geo": null,
+		"in_reply_to_screen_name": null,
+		"is_quote_status": false,
+		"id_str": "735599355906928640",
+		"in_reply_to_user_id": null,
+		"favorite_count": 10,
+		"id": 735599355906928640,
+		"text": "This years winner of the Mayor of HRM trophy at Photographic Guild of NS. \"Halifax Library at Sunset\" https://t.co/kOYpTqpM90",
+		"place": null,
+		"lang": "en",
+		"favorited": false,
+		"possibly_sensitive": false,
+		"coordinates": null,
+		"truncated": false,
+		"entities": {
+			"urls": [],
+			"hashtags": [],
+			"media": [{
+				"display_url": "pic.twitter.com/kOYpTqpM90",
+				"indices": [102,
+				125],
+				"sizes": {
+					"small": {
+						"w": 340,
+						"h": 255,
+						"resize": "fit"
+					},
+					"large": {
+						"w": 1024,
+						"h": 768,
+						"resize": "fit"
+					},
+					"thumb": {
+						"w": 150,
+						"h": 150,
+						"resize": "crop"
+					},
+					"medium": {
+						"w": 600,
+						"h": 450,
+						"resize": "fit"
+					}
+				},
+				"id_str": "735599355370033153",
+				"expanded_url": "http://twitter.com/MikeSavageHFX/status/735599355906928640/photo/1",
+				"media_url_https": "https://pbs.twimg.com/media/CjVft2HWUAEo1Xe.jpg",
+				"id": 735599355370033153,
+				"type": "photo",
+				"media_url": "http://pbs.twimg.com/media/CjVft2HWUAEo1Xe.jpg",
+				"url": "https://t.co/kOYpTqpM90"
+			}],
+			"user_mentions": [],
+			"symbols": []
+		},
+		"contributors": null,
+		"user": {
+			"utc_offset": -10800,
+			"friends_count": 725,
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/623508638011944960/ZaIY9Ewk_normal.jpg",
+			"listed_count": 328,
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"default_profile_image": false,
+			"favourites_count": 374,
+			"description": "Official Twitter account for Halifax Mayor Mike Savage. \n\nFor constituent matters, municipal inquiries and event invitations, please e-mail mayor@halifax.ca.",
+			"created_at": "Tue Nov 10 15:00:17 +0000 2009",
+			"is_translator": false,
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"protected": false,
+			"screen_name": "MikeSavageHFX",
+			"id_str": "88944711",
+			"profile_link_color": "2FC2EF",
+			"is_translation_enabled": false,
+			"id": 88944711,
+			"geo_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"lang": "en",
+			"has_extended_profile": false,
+			"profile_sidebar_border_color": "181A1E",
+			"profile_text_color": "666666",
+			"verified": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/623508638011944960/ZaIY9Ewk_normal.jpg",
+			"time_zone": "Atlantic Time (Canada)",
+			"url": "http://t.co/9Zd8zqIb",
+			"contributors_enabled": false,
+			"profile_background_tile": false,
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/88944711/1442433804",
+			"entities": {
+				"description": {
+					"urls": []
+				},
+				"url": {
+					"urls": [{
+						"display_url": "Halifax.ca",
+						"indices": [0,
+						20],
+						"expanded_url": "http://Halifax.ca",
+						"url": "http://t.co/9Zd8zqIb"
+					}]
+				}
+			},
+			"statuses_count": 3751,
+			"follow_request_sent": false,
+			"followers_count": 22456,
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"following": false,
+			"name": "Office of the Mayor",
+			"location": "Halifax, Nova Scotia",
+			"profile_sidebar_fill_color": "252429",
+			"notifications": false
+		}
+	},
+	"retweet_count": 4,
+	"retweeted": false,
+	"geo": null,
+	"in_reply_to_screen_name": null,
+	"is_quote_status": false,
+	"id_str": "735618341587554304",
+	"in_reply_to_user_id": null,
+	"favorite_count": 0,
+	"id": 735618341587554304,
+	"text": "RT @MikeSavageHFX: This years winner of the Mayor of HRM trophy at Photographic Guild of NS. \"Halifax Library at Sunset\" https://t.co/kOYpT\u2026",
+	"place": null,
+	"lang": "en",
+	"favorited": false,
+	"possibly_sensitive": false,
+	"coordinates": null,
+	"truncated": false,
+	"entities": {
+		"urls": [],
+		"hashtags": [],
+		"media": [{
+			"display_url": "pic.twitter.com/kOYpTqpM90",
+			"source_user_id": 88944711,
+			"type": "photo",
+			"media_url": "http://pbs.twimg.com/media/CjVft2HWUAEo1Xe.jpg",
+			"source_status_id": 735599355906928640,
+			"url": "https://t.co/kOYpTqpM90",
+			"indices": [121,
+			140],
+			"sizes": {
+				"small": {
+					"w": 340,
+					"h": 255,
+					"resize": "fit"
+				},
+				"large": {
+					"w": 1024,
+					"h": 768,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"medium": {
+					"w": 600,
+					"h": 450,
+					"resize": "fit"
+				}
+			},
+			"id_str": "735599355370033153",
+			"expanded_url": "http://twitter.com/MikeSavageHFX/status/735599355906928640/photo/1",
+			"source_status_id_str": "735599355906928640",
+			"media_url_https": "https://pbs.twimg.com/media/CjVft2HWUAEo1Xe.jpg",
+			"id": 735599355370033153,
+			"source_user_id_str": "88944711"
+		}],
+		"user_mentions": [{
+			"indices": [3,
+			17],
+			"screen_name": "MikeSavageHFX",
+			"id_str": "88944711",
+			"name": "Office of the Mayor",
+			"id": 88944711
+		}],
+		"symbols": []
+	},
+	"contributors": null,
+	"user": {
+		"utc_offset": -10800,
+		"friends_count": 5217,
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/466209541344874496/2_mvNvAv_normal.png",
+		"listed_count": 469,
+		"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/59962364/bg_v2.png",
+		"default_profile_image": false,
+		"favourites_count": 1124,
+		"description": "Halifax Public Libraries: Connecting People, Enriching Communities, Inspiring Discovery. FREE Wi-Fi, eBooks, magazines, music, movies. Questions? Ask us!",
+		"created_at": "Tue May 19 18:37:16 +0000 2009",
+		"is_translator": false,
+		"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/59962364/bg_v2.png",
+		"protected": false,
+		"screen_name": "hfxpublib",
+		"id_str": "41177169",
+		"profile_link_color": "4A5696",
+		"is_translation_enabled": false,
+		"id": 41177169,
+		"geo_enabled": true,
+		"profile_background_color": "1A2E75",
+		"lang": "en",
+		"has_extended_profile": false,
+		"profile_sidebar_border_color": "99ACD1",
+		"profile_text_color": "4B3F3F",
+		"verified": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/466209541344874496/2_mvNvAv_normal.png",
+		"time_zone": "Atlantic Time (Canada)",
+		"url": "http://t.co/Pasa7UvVAV",
+		"contributors_enabled": false,
+		"profile_background_tile": false,
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/41177169/1458675452",
+		"entities": {
+			"description": {
+				"urls": []
+			},
+			"url": {
+				"urls": [{
+					"display_url": "halifaxpubliclibraries.ca/about/contact/\u2026",
+					"indices": [0,
+					22],
+					"expanded_url": "http://www.halifaxpubliclibraries.ca/about/contact/ask-a-librarian.html",
+					"url": "http://t.co/Pasa7UvVAV"
+				}]
+			}
+		},
+		"statuses_count": 11882,
+		"follow_request_sent": false,
+		"followers_count": 19658,
+		"profile_use_background_image": true,
+		"default_profile": false,
+		"following": true,
+		"name": "Halifax Libraries",
+		"location": "Halifax, Nova Scotia, Canada",
+		"profile_sidebar_fill_color": "F3F5FC",
+		"notifications": false
+	}
+}

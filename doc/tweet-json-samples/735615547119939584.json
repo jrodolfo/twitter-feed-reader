@@ -1,0 +1,341 @@
+{
+	"possibly_sensitive_appealable": false,
+	"extended_entities": {
+		"media": [{
+			"display_url": "pic.twitter.com/ayBlVkWOPi",
+			"source_user_id": 21216178,
+			"type": "photo",
+			"media_url": "http://pbs.twimg.com/media/CjVrb5UXAAIDbos.jpg",
+			"source_status_id": 735612241702195200,
+			"url": "https://t.co/ayBlVkWOPi",
+			"indices": [110,
+			133],
+			"sizes": {
+				"small": {
+					"w": 340,
+					"h": 228,
+					"resize": "fit"
+				},
+				"large": {
+					"w": 545,
+					"h": 365,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"medium": {
+					"w": 545,
+					"h": 365,
+					"resize": "fit"
+				}
+			},
+			"id_str": "735612241131798530",
+			"expanded_url": "http://twitter.com/vancouvermetro/status/735612241702195200/photo/1",
+			"source_status_id_str": "735612241702195200",
+			"media_url_https": "https://pbs.twimg.com/media/CjVrb5UXAAIDbos.jpg",
+			"id": 735612241131798530,
+			"source_user_id_str": "21216178"
+		}]
+	},
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_status_id": null,
+	"created_at": "Wed May 25 23:36:28 +0000 2016",
+	"in_reply_to_user_id_str": null,
+	"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite<\/a>",
+	"retweeted_status": {
+		"possibly_sensitive_appealable": false,
+		"extended_entities": {
+			"media": [{
+				"display_url": "pic.twitter.com/ayBlVkWOPi",
+				"indices": [90,
+				113],
+				"sizes": {
+					"small": {
+						"w": 340,
+						"h": 228,
+						"resize": "fit"
+					},
+					"large": {
+						"w": 545,
+						"h": 365,
+						"resize": "fit"
+					},
+					"thumb": {
+						"w": 150,
+						"h": 150,
+						"resize": "crop"
+					},
+					"medium": {
+						"w": 545,
+						"h": 365,
+						"resize": "fit"
+					}
+				},
+				"id_str": "735612241131798530",
+				"expanded_url": "http://twitter.com/vancouvermetro/status/735612241702195200/photo/1",
+				"media_url_https": "https://pbs.twimg.com/media/CjVrb5UXAAIDbos.jpg",
+				"id": 735612241131798530,
+				"type": "photo",
+				"media_url": "http://pbs.twimg.com/media/CjVrb5UXAAIDbos.jpg",
+				"url": "https://t.co/ayBlVkWOPi"
+			}]
+		},
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_status_id": null,
+		"created_at": "Wed May 25 23:23:20 +0000 2016",
+		"in_reply_to_user_id_str": null,
+		"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite<\/a>",
+		"retweet_count": 9,
+		"retweeted": false,
+		"geo": null,
+		"in_reply_to_screen_name": null,
+		"is_quote_status": false,
+		"id_str": "735612241702195200",
+		"in_reply_to_user_id": null,
+		"favorite_count": 2,
+		"id": 735612241702195200,
+		"text": "No charges in bizarre incident with naked woman: Vancouver police https://t.co/Nxds216Y69 https://t.co/ayBlVkWOPi",
+		"place": null,
+		"lang": "en",
+		"favorited": false,
+		"possibly_sensitive": false,
+		"coordinates": null,
+		"truncated": false,
+		"entities": {
+			"urls": [{
+				"display_url": "ow.ly/EiUi300AJ8x",
+				"indices": [66,
+				89],
+				"expanded_url": "http://ow.ly/EiUi300AJ8x",
+				"url": "https://t.co/Nxds216Y69"
+			}],
+			"hashtags": [],
+			"media": [{
+				"display_url": "pic.twitter.com/ayBlVkWOPi",
+				"indices": [90,
+				113],
+				"sizes": {
+					"small": {
+						"w": 340,
+						"h": 228,
+						"resize": "fit"
+					},
+					"large": {
+						"w": 545,
+						"h": 365,
+						"resize": "fit"
+					},
+					"thumb": {
+						"w": 150,
+						"h": 150,
+						"resize": "crop"
+					},
+					"medium": {
+						"w": 545,
+						"h": 365,
+						"resize": "fit"
+					}
+				},
+				"id_str": "735612241131798530",
+				"expanded_url": "http://twitter.com/vancouvermetro/status/735612241702195200/photo/1",
+				"media_url_https": "https://pbs.twimg.com/media/CjVrb5UXAAIDbos.jpg",
+				"id": 735612241131798530,
+				"type": "photo",
+				"media_url": "http://pbs.twimg.com/media/CjVrb5UXAAIDbos.jpg",
+				"url": "https://t.co/ayBlVkWOPi"
+			}],
+			"user_mentions": [],
+			"symbols": []
+		},
+		"contributors": null,
+		"user": {
+			"utc_offset": -25200,
+			"friends_count": 3386,
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/580468033245810690/nig9f8cb_normal.png",
+			"listed_count": 1145,
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/196754726/2011_new_Twitter_background.gif",
+			"default_profile_image": false,
+			"favourites_count": 19,
+			"description": "Top stories from Metro Vancouver",
+			"created_at": "Wed Feb 18 17:14:25 +0000 2009",
+			"is_translator": false,
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/196754726/2011_new_Twitter_background.gif",
+			"protected": false,
+			"screen_name": "vancouvermetro",
+			"id_str": "21216178",
+			"profile_link_color": "006633",
+			"is_translation_enabled": false,
+			"id": 21216178,
+			"geo_enabled": false,
+			"profile_background_color": "003300",
+			"lang": "en",
+			"has_extended_profile": false,
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"verified": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/580468033245810690/nig9f8cb_normal.png",
+			"time_zone": "Pacific Time (US & Canada)",
+			"url": "http://t.co/y27jpsJxjp",
+			"contributors_enabled": false,
+			"profile_background_tile": false,
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21216178/1429829682",
+			"entities": {
+				"description": {
+					"urls": []
+				},
+				"url": {
+					"urls": [{
+						"display_url": "metronews.ca",
+						"indices": [0,
+						22],
+						"expanded_url": "http://www.metronews.ca",
+						"url": "http://t.co/y27jpsJxjp"
+					}]
+				}
+			},
+			"statuses_count": 35517,
+			"follow_request_sent": false,
+			"followers_count": 49778,
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"following": false,
+			"name": "Metro Vancouver",
+			"location": "Vancouver, British Columbia",
+			"profile_sidebar_fill_color": "EAFFBF",
+			"notifications": false
+		}
+	},
+	"retweet_count": 9,
+	"retweeted": false,
+	"geo": null,
+	"in_reply_to_screen_name": null,
+	"is_quote_status": false,
+	"id_str": "735615547119939584",
+	"in_reply_to_user_id": null,
+	"favorite_count": 0,
+	"id": 735615547119939584,
+	"text": "RT @vancouvermetro: No charges in bizarre incident with naked woman: Vancouver police https://t.co/Nxds216Y69 https://t.co/ayBlVkWOPi",
+	"place": null,
+	"lang": "en",
+	"favorited": false,
+	"possibly_sensitive": false,
+	"coordinates": null,
+	"truncated": false,
+	"entities": {
+		"urls": [{
+			"display_url": "ow.ly/EiUi300AJ8x",
+			"indices": [86,
+			109],
+			"expanded_url": "http://ow.ly/EiUi300AJ8x",
+			"url": "https://t.co/Nxds216Y69"
+		}],
+		"hashtags": [],
+		"media": [{
+			"display_url": "pic.twitter.com/ayBlVkWOPi",
+			"source_user_id": 21216178,
+			"type": "photo",
+			"media_url": "http://pbs.twimg.com/media/CjVrb5UXAAIDbos.jpg",
+			"source_status_id": 735612241702195200,
+			"url": "https://t.co/ayBlVkWOPi",
+			"indices": [110,
+			133],
+			"sizes": {
+				"small": {
+					"w": 340,
+					"h": 228,
+					"resize": "fit"
+				},
+				"large": {
+					"w": 545,
+					"h": 365,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"medium": {
+					"w": 545,
+					"h": 365,
+					"resize": "fit"
+				}
+			},
+			"id_str": "735612241131798530",
+			"expanded_url": "http://twitter.com/vancouvermetro/status/735612241702195200/photo/1",
+			"source_status_id_str": "735612241702195200",
+			"media_url_https": "https://pbs.twimg.com/media/CjVrb5UXAAIDbos.jpg",
+			"id": 735612241131798530,
+			"source_user_id_str": "21216178"
+		}],
+		"user_mentions": [{
+			"indices": [3,
+			18],
+			"screen_name": "vancouvermetro",
+			"id_str": "21216178",
+			"name": "Metro Vancouver",
+			"id": 21216178
+		}],
+		"symbols": []
+	},
+	"contributors": null,
+	"user": {
+		"utc_offset": -10800,
+		"friends_count": 2052,
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/580466414622007296/YTHDAUv3_normal.png",
+		"listed_count": 772,
+		"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/196757509/2011_new_Twitter_background.gif",
+		"default_profile_image": false,
+		"favourites_count": 27,
+		"description": "Top stories from Metro Halifax.",
+		"created_at": "Wed Feb 18 16:46:22 +0000 2009",
+		"is_translator": false,
+		"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/196757509/2011_new_Twitter_background.gif",
+		"protected": false,
+		"screen_name": "metrohalifax",
+		"id_str": "21213416",
+		"profile_link_color": "003300",
+		"is_translation_enabled": false,
+		"id": 21213416,
+		"geo_enabled": false,
+		"profile_background_color": "003300",
+		"lang": "en",
+		"has_extended_profile": false,
+		"profile_sidebar_border_color": "FFFFFF",
+		"profile_text_color": "333333",
+		"verified": true,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/580466414622007296/YTHDAUv3_normal.png",
+		"time_zone": "Atlantic Time (Canada)",
+		"url": "http://t.co/DmOFyn1Yfe",
+		"contributors_enabled": false,
+		"profile_background_tile": false,
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/21213416/1399069495",
+		"entities": {
+			"description": {
+				"urls": []
+			},
+			"url": {
+				"urls": [{
+					"display_url": "metronews.ca",
+					"indices": [0,
+					22],
+					"expanded_url": "http://www.metronews.ca",
+					"url": "http://t.co/DmOFyn1Yfe"
+				}]
+			}
+		},
+		"statuses_count": 42664,
+		"follow_request_sent": false,
+		"followers_count": 67232,
+		"profile_use_background_image": true,
+		"default_profile": false,
+		"following": true,
+		"name": "Metro Halifax",
+		"location": "Halifax, Nova Scotia",
+		"profile_sidebar_fill_color": "EAFFBF",
+		"notifications": false
+	}
+}

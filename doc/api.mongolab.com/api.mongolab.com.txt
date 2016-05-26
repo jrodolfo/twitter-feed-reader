@@ -1,0 +1,49 @@
+
+SbFSF2FTIYOH3pmkw1SZra_dMqsEGCzH
+
+Check databases in your account
+https://api.mongolab.com/api/1/databases?apiKey=SbFSF2FTIYOH3pmkw1SZra_dMqsEGCzH
+
+billing-app
+
+To check databases on my account:
+https://api.mongolab.com/api/1/databases?apiKey=SbFSF2FTIYOH3pmkw1SZra_dMqsEGCzH
+
+Get a list of collections in the database:
+https://api.mongolab.com/api/1/databases/billing-app/collections?apiKey=SbFSF2FTIYOH3pmkw1SZra_dMqsEGCzH
+
+To create a new collection named "invoices":
+This is the Json Payload:
+{
+	referenceNumber: '98765',
+	date: '2013-04-04',
+	item: [
+		{description: 'Jet Ski', price: 12, quantity: 1},
+		{description: 'Toy Dolphin', price: 5, quantity: 3}
+	]
+}
+POST
+https://api.mongolab.com/api/1/databases/billing-app/collections/invoices?apiKey=SbFSF2FTIYOH3pmkw1SZra_dMqsEGCzH
+
+reply from the server:
+
+{
+"referenceNumber": "98765"
+"date": "2013-04-04"
+"item": [2]
+0:  {
+"description": "Jet Ski"
+"price": 12
+"quantity": 1
+}-
+1:  {
+"description": "Toy Dolphin"
+"price": 5
+"quantity": 3
+}-
+-
+"_id": {
+"$oid": "5745e3630a00b21cfb1373a4"
+}-
+}
+

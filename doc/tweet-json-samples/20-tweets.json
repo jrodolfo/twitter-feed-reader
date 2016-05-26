@@ -1,0 +1,2061 @@
+[{
+	"possibly_sensitive_appealable": false,
+	"extended_entities": {
+		"media": [{
+			"display_url": "pic.twitter.com/V4GwA6iY4w",
+			"indices": [116,
+			139],
+			"sizes": {
+				"small": {
+					"w": 340,
+					"h": 170,
+					"resize": "fit"
+				},
+				"large": {
+					"w": 1024,
+					"h": 512,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"medium": {
+					"w": 600,
+					"h": 300,
+					"resize": "fit"
+				}
+			},
+			"id_str": "735607099405815809",
+			"expanded_url": "http://twitter.com/SAI/status/735607099611357185/photo/1",
+			"media_url_https": "https://pbs.twimg.com/media/CjVmwm5W0AEJDSu.jpg",
+			"id": 735607099405815809,
+			"type": "photo",
+			"media_url": "http://pbs.twimg.com/media/CjVmwm5W0AEJDSu.jpg",
+			"url": "https://t.co/V4GwA6iY4w"
+		}]
+	},
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_status_id": null,
+	"created_at": "Wed May 25 23:02:54 +0000 2016",
+	"in_reply_to_user_id_str": null,
+	"source": "<a href=\\"http: //www.businessinsider.com\\" rel=\\"nofollow\\">Business Insider<\\/a>",
+	"retweet_count": 2,
+	"retweeted": false,
+	"geo": null,
+	"in_reply_to_screen_name": null,
+	"is_quote_status": false,
+	"id_str": "735607099611357185",
+	"in_reply_to_user_id": null,
+	"favorite_count": 2,
+	"id": 735607099611357185,
+	"text": "Three, a UK mobile carrier with 9m customers, will block all mobile ads for one day in June https://t.co/T9miVtFE7O https://t.co/V4GwA6iY4w",
+	"place": null,
+	"lang": "en",
+	"favorited": false,
+	"possibly_sensitive": false,
+	"coordinates": null,
+	"truncated": false,
+	"entities": {
+		"urls": [{
+			"display_url": "read.bi/20C8CdG",
+			"indices": [92,
+			115],
+			"expanded_url": "http://read.bi/20C8CdG",
+			"url": "https://t.co/T9miVtFE7O"
+		}],
+		"hashtags": [],
+		"media": [{
+			"display_url": "pic.twitter.com/V4GwA6iY4w",
+			"indices": [116,
+			139],
+			"sizes": {
+				"small": {
+					"w": 340,
+					"h": 170,
+					"resize": "fit"
+				},
+				"large": {
+					"w": 1024,
+					"h": 512,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"medium": {
+					"w": 600,
+					"h": 300,
+					"resize": "fit"
+				}
+			},
+			"id_str": "735607099405815809",
+			"expanded_url": "http://twitter.com/SAI/status/735607099611357185/photo/1",
+			"media_url_https": "https://pbs.twimg.com/media/CjVmwm5W0AEJDSu.jpg",
+			"id": 735607099405815809,
+			"type": "photo",
+			"media_url": "http://pbs.twimg.com/media/CjVmwm5W0AEJDSu.jpg",
+			"url": "https://t.co/V4GwA6iY4w"
+		}],
+		"user_mentions": [],
+		"symbols": []
+	},
+	"contributors": null,
+	"user": {
+		"utc_offset": -14400,
+		"friends_count": 64,
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/573908838190968833/LbVrX0tp_normal.png",
+		"listed_count": 14820,
+		"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"default_profile_image": false,
+		"favourites_count": 30,
+		"description": "The latest tech news from @BusinessInsider.",
+		"created_at": "Wed Sep 12 21:09:11 +0000 2007",
+		"is_translator": false,
+		"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"protected": false,
+		"screen_name": "SAI",
+		"id_str": "8841372",
+		"profile_link_color": "185F7C",
+		"is_translation_enabled": false,
+		"id": 8841372,
+		"geo_enabled": true,
+		"profile_background_color": "000000",
+		"lang": "en",
+		"has_extended_profile": false,
+		"profile_sidebar_border_color": "000000",
+		"profile_text_color": "000000",
+		"verified": true,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/573908838190968833/LbVrX0tp_normal.png",
+		"time_zone": "Eastern Time (US & Canada)",
+		"url": "http://t.co/WTYREgWa73",
+		"contributors_enabled": false,
+		"profile_background_tile": false,
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/8841372/1456623106",
+		"entities": {
+			"description": {
+				"urls": []
+			},
+			"url": {
+				"urls": [{
+					"display_url": "businessinsider.com/sai",
+					"indices": [0,
+					22],
+					"expanded_url": "http://www.businessinsider.com/sai",
+					"url": "http://t.co/WTYREgWa73"
+				}]
+			}
+		},
+		"statuses_count": 111984,
+		"follow_request_sent": false,
+		"followers_count": 1368581,
+		"profile_use_background_image": false,
+		"default_profile": false,
+		"following": true,
+		"name": "BI Tech",
+		"location": "New York, NY",
+		"profile_sidebar_fill_color": "000000",
+		"notifications": false
+	}
+}",
+{"possibly_sensitive_appealable":false,"extended_entities":{"media":[{"display_url":"pic.twitter.com/mvEIQxIbpY","source_user_id":775956193,"type":"photo","media_url":"http: //pbs.twimg.com/media/CjVmbRVUkAAYBGh.jpg","source_status_id":735606734362955776,"url":"https: //t.co/mvEIQxIbpY","indices":[109,132],"sizes":{"small":{"w":340,"h":340,"resize":"fit"},"large":{"w":1024,"h":1024,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":600,"h":600,"resize":"fit"}},"id_str":"735606732840275968","expanded_url":"http: //twitter.com/indoblue82/status/735606734362955776/photo/1","source_status_id_str":"735606734362955776","media_url_https":"https: //pbs.twimg.com/media/CjVmbRVUkAAYBGh.jpg","id":735606732840275968,"source_user_id_str":"775956193"}]},"in_reply_to_status_id_str":null,"in_reply_to_status_id":null,"created_at":"WedMay2523: 03: 11+00002016","in_reply_to_user_id_str":null,"source":"<ahref=\\"http://dlvr.it\\"rel=\\"nofollow\\">dlvr.it<\\/a>","retweet_count":1,"retweeted":false,"geo":{"coordinates":[44.6537582,-63.6134827],"type":"Point"},"in_reply_to_screen_name":null,"is_quote_status":false,"id_str":"735607174412394496","in_reply_to_user_id":null,"favorite_count":1,"id":735607174412394496,"text":"Beautifulevening!TakingtheKing'sWharfwatertaxito#Halifax#Dartmouth@harbourtaxiVia@c.r.macdonaldhttps: //t.co/mvEIQxIbpY","place":{"country_code":"CA","country":"Canada","contained_within":[],"full_name":"Halifax,
+NovaScotia","bounding_box":{"coordinates":[[[-64.237659,43.366298],[-59.385802,43.366298],[-59.385802,45.27617],[-64.237659,45.27617]]],"type":"Polygon"},"place_type":"city","name":"Halifax","attributes":{},"id":"5d058f2e9fe1516c","url":"https: //api.twitter.com/1.1/geo/id/5d058f2e9fe1516c.json"},"lang":"en","favorited":false,"possibly_sensitive":false,"coordinates":{"coordinates":[-63.6134827,44.6537582],"type":"Point"},"truncated":false,"entities":{"urls":[],"hashtags":[{"indices":[57,65],"text":"Halifax"},{"indices":[66,76],"text":"Dartmouth"}],"media":[{"display_url":"pic.twitter.com/mvEIQxIbpY","source_user_id":775956193,"type":"photo","media_url":"http: //pbs.twimg.com/media/CjVmbRVUkAAYBGh.jpg","source_status_id":735606734362955776,"url":"https: //t.co/mvEIQxIbpY","indices":[109,132],"sizes":{"small":{"w":340,"h":340,"resize":"fit"},"large":{"w":1024,"h":1024,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":600,"h":600,"resize":"fit"}},"id_str":"735606732840275968","expanded_url":"http: //twitter.com/indoblue82/status/735606734362955776/photo/1","source_status_id_str":"735606734362955776","media_url_https":"https: //pbs.twimg.com/media/CjVmbRVUkAAYBGh.jpg","id":735606732840275968,"source_user_id_str":"775956193"}],"user_mentions":[{"indices":[77,89],"screen_name":"harbourtaxi","id_str":"3351016847","name":"harbourtaxi","id":3351016847},{"indices":[94,96],"screen_name":"c","id_str":"632173","name":"ColeyPaulineForest","id":632173}],"symbols":[]},"contributors":null,"user":{"utc_offset":-10800,"friends_count":30981,"profile_image_url_https":"https: //pbs.twimg.com/profile_images/693378590960779265/JYO9QRaF_normal.png","listed_count":956,"profile_background_image_url":"http: //pbs.twimg.com/profile_background_images/66355533/Untitled-1.png","default_profile_image":false,"favourites_count":133,"description":"Oftenimitated,
+neverduplicated.BreakingHalifaxNovaScotianews,
+weatherandlifestyle-typestuff.Hello.","created_at":"TueSep1610: 02: 05+00002008","is_translator":false,"profile_background_image_url_https":"https: //pbs.twimg.com/profile_background_images/66355533/Untitled-1.png","protected":false,"screen_name":"haligonia","id_str":"16308920","profile_link_color":"7E827D","is_translation_enabled":false,"id":16308920,"geo_enabled":true,"profile_background_color":"FFFFFF","lang":"en","has_extended_profile":false,"profile_sidebar_border_color":"000000","profile_text_color":"383838","verified":false,"profile_image_url":"http: //pbs.twimg.com/profile_images/693378590960779265/JYO9QRaF_normal.png","time_zone":"AtlanticTime(Canada)","url":"http: //t.co/3K7Lz3Hwf5","contributors_enabled":false,"profile_background_tile":false,"profile_banner_url":"https: //pbs.twimg.com/profile_banners/16308920/1460990915","entities":{"description":{"urls":[]},"url":{"urls":[{"display_url":"haligonia.ca","indices":[0,22],"expanded_url":"http: //www.haligonia.ca","url":"http: //t.co/3K7Lz3Hwf5"}]}},"statuses_count":65231,"follow_request_sent":false,"followers_count":96535,"profile_use_background_image":true,"default_profile":false,"following":true,"name":"haligonia: hfxnews","location":"HalifaxNovaScotiaCanada","profile_sidebar_fill_color":"D0CDCD","notifications":false}}",
+{
+	"possibly_sensitive_appealable": false,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_status_id": null,
+	"created_at": "Wed May 25 23:12:06 +0000 2016",
+	"in_reply_to_user_id_str": null,
+	"source": "<a href=\\"http: //twitter.com/download/android\\" rel=\\"nofollow\\">Twitter for Android<\\/a>",
+	"retweet_count": 0,
+	"retweeted": false,
+	"geo": null,
+	"in_reply_to_screen_name": null,
+	"is_quote_status": false,
+	"id_str": "735609417060605952",
+	"in_reply_to_user_id": null,
+	"favorite_count": 1,
+	"id": 735609417060605952,
+	"text": "https://t.co/FzIYAd5Qt1 I second that",
+	"place": null,
+	"lang": "en",
+	"favorited": false,
+	"possibly_sensitive": false,
+	"coordinates": null,
+	"truncated": false,
+	"entities": {
+		"urls": [{
+			"display_url": "i.imgur.com/QBnYezH.jpg",
+			"indices": [0,
+			23],
+			"expanded_url": "https://i.imgur.com/QBnYezH.jpg",
+			"url": "https://t.co/FzIYAd5Qt1"
+		}],
+		"hashtags": [],
+		"user_mentions": [],
+		"symbols": []
+	},
+	"contributors": null,
+	"user": {
+		"utc_offset": -10800,
+		"friends_count": 115,
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/721702913354018816/GpulUGEK_normal.jpg",
+		"listed_count": 38,
+		"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/549983685601005570/QDW2BGL-.jpeg",
+		"default_profile_image": false,
+		"favourites_count": 515,
+		"description": "",
+		"created_at": "Wed Feb 25 14:58:31 +0000 2009",
+		"is_translator": false,
+		"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/549983685601005570/QDW2BGL-.jpeg",
+		"protected": false,
+		"screen_name": "Ebastos",
+		"id_str": "21873076",
+		"profile_link_color": "ABB8C2",
+		"is_translation_enabled": false,
+		"id": 21873076,
+		"geo_enabled": false,
+		"profile_background_color": "131516",
+		"lang": "en",
+		"has_extended_profile": false,
+		"profile_sidebar_border_color": "EEEEEE",
+		"profile_text_color": "333333",
+		"verified": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/721702913354018816/GpulUGEK_normal.jpg",
+		"time_zone": "Atlantic Time (Canada)",
+		"url": "https://t.co/l43jYdHbZ6",
+		"contributors_enabled": false,
+		"profile_background_tile": true,
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/21873076/1424881916",
+		"entities": {
+			"description": {
+				"urls": []
+			},
+			"url": {
+				"urls": [{
+					"display_url": "geek.linuxman.pro.br",
+					"indices": [0,
+					23],
+					"expanded_url": "http://geek.linuxman.pro.br",
+					"url": "https://t.co/l43jYdHbZ6"
+				}]
+			}
+		},
+		"statuses_count": 9734,
+		"follow_request_sent": false,
+		"followers_count": 244,
+		"profile_use_background_image": false,
+		"default_profile": false,
+		"following": true,
+		"name": "Eri Bastos",
+		"location": "Colorado, USA",
+		"profile_sidebar_fill_color": "EFEFEF",
+		"notifications": false
+	}
+}",
+{"possibly_sensitive_appealable":false,"extended_entities":{"media":[{"display_url":"pic.twitter.com/7ylLQe9wc0","source_user_id":16817799,"type":"photo","media_url":"http: //pbs.twimg.com/media/CjUdokVUoAAgIfn.jpg","source_status_id":735526703808847872,"url":"https: //t.co/7ylLQe9wc0","indices":[139,140],"sizes":{"small":{"w":340,"h":192,"resize":"fit"},"large":{"w":1024,"h":577,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":600,"h":338,"resize":"fit"}},"id_str":"735526696930025472","expanded_url":"http: //twitter.com/laurenonizzle/status/735526703808847872/photo/1","source_status_id_str":"735526703808847872","media_url_https":"https: //pbs.twimg.com/media/CjUdokVUoAAgIfn.jpg","id":735526696930025472,"source_user_id_str":"16817799"}]},"in_reply_to_status_id_str":null,"in_reply_to_status_id":null,"created_at":"WedMay2523: 16: 02+00002016","in_reply_to_user_id_str":null,"source":"<ahref=\\"http://twitter.com/download/iphone\\"rel=\\"nofollow\\">TwitterforiPhone<\\/a>","retweeted_status":{"possibly_sensitive_appealable":false,"extended_entities":{"media":[{"display_url":"pic.twitter.com/7ylLQe9wc0","indices":[116,139],"sizes":{"small":{"w":340,"h":192,"resize":"fit"},"large":{"w":1024,"h":577,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":600,"h":338,"resize":"fit"}},"id_str":"735526696930025472","expanded_url":"http: //twitter.com/laurenonizzle/status/735526703808847872/photo/1","media_url_https":"https: //pbs.twimg.com/media/CjUdokVUoAAgIfn.jpg","id":735526696930025472,"type":"photo","media_url":"http: //pbs.twimg.com/media/CjUdokVUoAAgIfn.jpg","url":"https: //t.co/7ylLQe9wc0"}]},"in_reply_to_status_id_str":null,"in_reply_to_status_id":null,"created_at":"WedMay2517: 43: 26+00002016","in_reply_to_user_id_str":null,"source":"<ahref=\\"http://twitter.com/download/iphone\\"rel=\\"nofollow\\">TwitterforiPhone<\\/a>","retweet_count":5,"retweeted":false,"geo":null,"in_reply_to_screen_name":null,"is_quote_status":false,"id_str":"735526703808847872","in_reply_to_user_id":null,"favorite_count":13,"id":735526703808847872,"text":"HAPPYBEYONCÉDAY,
+Toronto!Follow@CBCTorontoonSnapchattoseewhatIseeat#TheFormationWorldTourtonight????????https: //t.co/7ylLQe9wc0","place":null,"lang":"en","favorited":false,"possibly_sensitive":false,"coordinates":null,"truncated":false,"entities":{"urls":[],"hashtags":[{"indices":[80,102],"text":"TheFormationWorldTour"}],"media":[{"display_url":"pic.twitter.com/7ylLQe9wc0","indices":[116,139],"sizes":{"small":{"w":340,"h":192,"resize":"fit"},"large":{"w":1024,"h":577,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":600,"h":338,"resize":"fit"}},"id_str":"735526696930025472","expanded_url":"http: //twitter.com/laurenonizzle/status/735526703808847872/photo/1","media_url_https":"https: //pbs.twimg.com/media/CjUdokVUoAAgIfn.jpg","id":735526696930025472,"type":"photo","media_url":"http: //pbs.twimg.com/media/CjUdokVUoAAgIfn.jpg","url":"https: //t.co/7ylLQe9wc0"}],"user_mentions":[{"indices":[35,46],"screen_name":"CBCToronto","id_str":"19000033","name":"CBCToronto","id":19000033}],"symbols":[]},"contributors":null,"user":{"utc_offset":-14400,"friends_count":8386,"profile_image_url_https":"https: //pbs.twimg.com/profile_images/438774827197804545/MiwQpkDM_normal.jpeg","listed_count":1031,"profile_background_image_url":"http: //pbs.twimg.com/profile_background_images/5620950/hotdog.png","default_profile_image":false,"favourites_count":14353,"description":"Journalist@CBCNews,
+TVhead&OGInternetperson.Ilikecomedy,
+computers,
+clothesandalliteration.Mytweetsareallyourmom's.[lauren.oneil@cbc.ca]","created_at":"FriOct1701: 24: 00+00002008","is_translator":false,"profile_background_image_url_https":"https: //pbs.twimg.com/profile_background_images/5620950/hotdog.png","protected":false,"screen_name":"laurenonizzle","id_str":"16817799","profile_link_color":"449FFD","is_translation_enabled":false,"id":16817799,"geo_enabled":true,"profile_background_color":"FF1F81","lang":"en","has_extended_profile":false,"profile_sidebar_border_color":"FFFFFF","profile_text_color":"1FB5FF","verified":true,"profile_image_url":"http: //pbs.twimg.com/profile_images/438774827197804545/MiwQpkDM_normal.jpeg","time_zone":"EasternTime(US&Canada)","url":"https: //t.co/V9Qz1V5Vc8","contributors_enabled":false,"profile_background_tile":false,"profile_banner_url":"https: //pbs.twimg.com/profile_banners/16817799/1398233444","entities":{"description":{"urls":[]},"url":{"urls":[{"display_url":"cbc.ca/news/trending","indices":[0,23],"expanded_url":"http: //www.cbc.ca/news/trending","url":"https: //t.co/V9Qz1V5Vc8"}]}},"statuses_count":89636,"follow_request_sent":false,"followers_count":70818,"profile_use_background_image":true,"default_profile":false,"following":false,"name":"LaurenO'Neil","location":"Toronto","profile_sidebar_fill_color":"FFFFFF","notifications":false}},"retweet_count":5,"retweeted":false,"geo":null,"in_reply_to_screen_name":null,"is_quote_status":false,"id_str":"735610406790647810","in_reply_to_user_id":null,"favorite_count":0,"id":735610406790647810,"text":"RT@laurenonizzle: HAPPYBEYONCÉDAY,
+Toronto!Follow@CBCTorontoonSnapchattoseewhatIseeat#TheFormationWorldTourtonight????????http\\u2026","place":null,"lang":"en","favorited":false,"possibly_sensitive":false,"coordinates":null,"truncated":false,"entities":{"urls":[],"hashtags":[{"indices":[99,121],"text":"TheFormationWorldTour"}],"media":[{"display_url":"pic.twitter.com/7ylLQe9wc0","source_user_id":16817799,"type":"photo","media_url":"http: //pbs.twimg.com/media/CjUdokVUoAAgIfn.jpg","source_status_id":735526703808847872,"url":"https: //t.co/7ylLQe9wc0","indices":[139,140],"sizes":{"small":{"w":340,"h":192,"resize":"fit"},"large":{"w":1024,"h":577,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":600,"h":338,"resize":"fit"}},"id_str":"735526696930025472","expanded_url":"http: //twitter.com/laurenonizzle/status/735526703808847872/photo/1","source_status_id_str":"735526703808847872","media_url_https":"https: //pbs.twimg.com/media/CjUdokVUoAAgIfn.jpg","id":735526696930025472,"source_user_id_str":"16817799"}],"user_mentions":[{"indices":[3,17],"screen_name":"laurenonizzle","id_str":"16817799","name":"LaurenO'Neil","id":16817799},{"indices":[54,65],"screen_name":"CBCToronto","id_str":"19000033","name":"CBCToronto","id":19000033}],"symbols":[]},"contributors":null,"user":{"utc_offset":-14400,"friends_count":2313,"profile_image_url_https":"https: //pbs.twimg.com/profile_images/466664981673410560/886Az0vu_normal.jpeg","listed_count":12552,"profile_background_image_url":"http: //pbs.twimg.com/profile_background_images/167724092/cbcnews_twitter_pg-yellow.JPG","default_profile_image":false,"favourites_count":5340,"description":"CanadianbreakingnewsandanalysisfromCBCNews.ca,
+TVandradio.","created_at":"WedMay3005: 20: 39+00002007","is_translator":false,"profile_background_image_url_https":"https: //pbs.twimg.com/profile_background_images/167724092/cbcnews_twitter_pg-yellow.JPG","protected":false,"screen_name":"CBCNews","id_str":"6433472","profile_link_color":"FF0000","is_translation_enabled":false,"id":6433472,"geo_enabled":true,"profile_background_color":"000000","lang":"en","has_extended_profile":false,"profile_sidebar_border_color":"F2E195","profile_text_color":"0C3E53","verified":true,"profile_image_url":"http: //pbs.twimg.com/profile_images/466664981673410560/886Az0vu_normal.jpeg","time_zone":"EasternTime(US&Canada)","url":"http: //t.co/ZLZObOnET1","contributors_enabled":false,"profile_background_tile":false,"profile_banner_url":"https: //pbs.twimg.com/profile_banners/6433472/1400096610","entities":{"description":{"urls":[]},"url":{"urls":[{"display_url":"cbc.ca/news/","indices":[0,22],"expanded_url":"http: //www.cbc.ca/news/","url":"http: //t.co/ZLZObOnET1"}]}},"statuses_count":150293,"follow_request_sent":false,"followers_count":1781576,"profile_use_background_image":true,"default_profile":false,"following":true,"name":"CBCNews","location":"Canada","profile_sidebar_fill_color":"FFF7CC","notifications":false}}",
+{
+	"possibly_sensitive_appealable": false,
+	"extended_entities": {
+		"media": [{
+			"display_url": "pic.twitter.com/VaJXl8hjNU",
+			"indices": [58,
+			81],
+			"sizes": {
+				"small": {
+					"w": 340,
+					"h": 340,
+					"resize": "fit"
+				},
+				"large": {
+					"w": 1024,
+					"h": 1024,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"medium": {
+					"w": 600,
+					"h": 600,
+					"resize": "fit"
+				}
+			},
+			"id_str": "735610705060204544",
+			"expanded_url": "http://twitter.com/haligonia/status/735610705555116032/photo/1",
+			"media_url_https": "https://pbs.twimg.com/media/CjVqCfAWkAAeBU6.jpg",
+			"id": 735610705060204544,
+			"type": "photo",
+			"media_url": "http://pbs.twimg.com/media/CjVqCfAWkAAeBU6.jpg",
+			"url": "https://t.co/VaJXl8hjNU"
+		}]
+	},
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_status_id": null,
+	"created_at": "Wed May 25 23:17:13 +0000 2016",
+	"in_reply_to_user_id_str": null,
+	"source": "<a href=\\"http: //dlvr.it\\" rel=\\"nofollow\\">dlvr.it<\\/a>",
+	"retweet_count": 0,
+	"retweeted": false,
+	"geo": {
+		"coordinates": [44.6494428,
+		-63.5782661],
+		"type": "Point"
+	},
+	"in_reply_to_screen_name": null,
+	"is_quote_status": false,
+	"id_str": "735610705555116032",
+	"in_reply_to_user_id": null,
+	"favorite_count": 0,
+	"id": 735610705555116032,
+	"text": "? | Right now at 8:16 pm: Partly Cloudy, 16.4°C. #Halifax https://t.co/VaJXl8hjNU",
+	"place": {
+		"country_code": "CA",
+		"country": "Canada",
+		"contained_within": [],
+		"full_name": "Halifax, Nova Scotia",
+		"bounding_box": {
+			"coordinates": [[[-64.237659,
+			43.366298],
+			[-59.385802,
+			43.366298],
+			[-59.385802,
+			45.27617],
+			[-64.237659,
+			45.27617]]],
+			"type": "Polygon"
+		},
+		"place_type": "city",
+		"name": "Halifax",
+		"attributes": {
+			
+		},
+		"id": "5d058f2e9fe1516c",
+		"url": "https://api.twitter.com/1.1/geo/id/5d058f2e9fe1516c.json"
+	},
+	"lang": "en",
+	"favorited": false,
+	"possibly_sensitive": false,
+	"coordinates": {
+		"coordinates": [-63.5782661,
+		44.6494428],
+		"type": "Point"
+	},
+	"truncated": false,
+	"entities": {
+		"urls": [],
+		"hashtags": [{
+			"indices": [49,
+			57],
+			"text": "Halifax"
+		}],
+		"media": [{
+			"display_url": "pic.twitter.com/VaJXl8hjNU",
+			"indices": [58,
+			81],
+			"sizes": {
+				"small": {
+					"w": 340,
+					"h": 340,
+					"resize": "fit"
+				},
+				"large": {
+					"w": 1024,
+					"h": 1024,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"medium": {
+					"w": 600,
+					"h": 600,
+					"resize": "fit"
+				}
+			},
+			"id_str": "735610705060204544",
+			"expanded_url": "http://twitter.com/haligonia/status/735610705555116032/photo/1",
+			"media_url_https": "https://pbs.twimg.com/media/CjVqCfAWkAAeBU6.jpg",
+			"id": 735610705060204544,
+			"type": "photo",
+			"media_url": "http://pbs.twimg.com/media/CjVqCfAWkAAeBU6.jpg",
+			"url": "https://t.co/VaJXl8hjNU"
+		}],
+		"user_mentions": [],
+		"symbols": []
+	},
+	"contributors": null,
+	"user": {
+		"utc_offset": -10800,
+		"friends_count": 30981,
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/693378590960779265/JYO9QRaF_normal.png",
+		"listed_count": 956,
+		"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/66355533/Untitled-1.png",
+		"default_profile_image": false,
+		"favourites_count": 133,
+		"description": "Often imitated, never duplicated. Breaking Halifax Nova Scotia news, weather and lifestyle-type stuff. Hello.",
+		"created_at": "Tue Sep 16 10:02:05 +0000 2008",
+		"is_translator": false,
+		"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/66355533/Untitled-1.png",
+		"protected": false,
+		"screen_name": "haligonia",
+		"id_str": "16308920",
+		"profile_link_color": "7E827D",
+		"is_translation_enabled": false,
+		"id": 16308920,
+		"geo_enabled": true,
+		"profile_background_color": "FFFFFF",
+		"lang": "en",
+		"has_extended_profile": false,
+		"profile_sidebar_border_color": "000000",
+		"profile_text_color": "383838",
+		"verified": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/693378590960779265/JYO9QRaF_normal.png",
+		"time_zone": "Atlantic Time (Canada)",
+		"url": "http://t.co/3K7Lz3Hwf5",
+		"contributors_enabled": false,
+		"profile_background_tile": false,
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/16308920/1460990915",
+		"entities": {
+			"description": {
+				"urls": []
+			},
+			"url": {
+				"urls": [{
+					"display_url": "haligonia.ca",
+					"indices": [0,
+					22],
+					"expanded_url": "http://www.haligonia.ca",
+					"url": "http://t.co/3K7Lz3Hwf5"
+				}]
+			}
+		},
+		"statuses_count": 65231,
+		"follow_request_sent": false,
+		"followers_count": 96535,
+		"profile_use_background_image": true,
+		"default_profile": false,
+		"following": true,
+		"name": "haligonia: hfx news",
+		"location": "Halifax Nova Scotia Canada",
+		"profile_sidebar_fill_color": "D0CDCD",
+		"notifications": false
+	}
+}",
+{"possibly_sensitive_appealable":false,"extended_entities":{"media":[{"display_url":"pic.twitter.com/GXyabcEgqO","indices":[64,87],"sizes":{"small":{"w":340,"h":264,"resize":"fit"},"large":{"w":900,"h":700,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":600,"h":467,"resize":"fit"}},"id_str":"735610763771940864","expanded_url":"http: //twitter.com/haligonia/status/735610764241690628/photo/1","media_url_https":"https: //pbs.twimg.com/media/CjVqF5uUkAAvDVC.jpg","id":735610763771940864,"type":"photo","media_url":"http: //pbs.twimg.com/media/CjVqF5uUkAAvDVC.jpg","url":"https: //t.co/GXyabcEgqO"}]},"in_reply_to_status_id_str":null,"in_reply_to_status_id":null,"created_at":"WedMay2523: 17: 27+00002016","in_reply_to_user_id_str":null,"source":"<ahref=\\"http://dlvr.it\\"rel=\\"nofollow\\">dlvr.it<\\/a>","retweet_count":1,"retweeted":false,"geo":{"coordinates":[44.6494428,-63.5782661],"type":"Point"},"in_reply_to_screen_name":null,"is_quote_status":false,"id_str":"735610764241690628","in_reply_to_user_id":null,"favorite_count":0,"id":735610764241690628,"text":"?|Wednesdaynight: Chanceofshowers.Low9.POP40%#Halifaxhttps: //t.co/GXyabcEgqO","place":{"country_code":"CA","country":"Canada","contained_within":[],"full_name":"Halifax,
+NovaScotia","bounding_box":{"coordinates":[[[-64.237659,43.366298],[-59.385802,43.366298],[-59.385802,45.27617],[-64.237659,45.27617]]],"type":"Polygon"},"place_type":"city","name":"Halifax","attributes":{},"id":"5d058f2e9fe1516c","url":"https: //api.twitter.com/1.1/geo/id/5d058f2e9fe1516c.json"},"lang":"en","favorited":false,"possibly_sensitive":false,"coordinates":{"coordinates":[-63.5782661,44.6494428],"type":"Point"},"truncated":false,"entities":{"urls":[],"hashtags":[{"indices":[55,63],"text":"Halifax"}],"media":[{"display_url":"pic.twitter.com/GXyabcEgqO","indices":[64,87],"sizes":{"small":{"w":340,"h":264,"resize":"fit"},"large":{"w":900,"h":700,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":600,"h":467,"resize":"fit"}},"id_str":"735610763771940864","expanded_url":"http: //twitter.com/haligonia/status/735610764241690628/photo/1","media_url_https":"https: //pbs.twimg.com/media/CjVqF5uUkAAvDVC.jpg","id":735610763771940864,"type":"photo","media_url":"http: //pbs.twimg.com/media/CjVqF5uUkAAvDVC.jpg","url":"https: //t.co/GXyabcEgqO"}],"user_mentions":[],"symbols":[]},"contributors":null,"user":{"utc_offset":-10800,"friends_count":30981,"profile_image_url_https":"https: //pbs.twimg.com/profile_images/693378590960779265/JYO9QRaF_normal.png","listed_count":956,"profile_background_image_url":"http: //pbs.twimg.com/profile_background_images/66355533/Untitled-1.png","default_profile_image":false,"favourites_count":133,"description":"Oftenimitated,
+neverduplicated.BreakingHalifaxNovaScotianews,
+weatherandlifestyle-typestuff.Hello.","created_at":"TueSep1610: 02: 05+00002008","is_translator":false,"profile_background_image_url_https":"https: //pbs.twimg.com/profile_background_images/66355533/Untitled-1.png","protected":false,"screen_name":"haligonia","id_str":"16308920","profile_link_color":"7E827D","is_translation_enabled":false,"id":16308920,"geo_enabled":true,"profile_background_color":"FFFFFF","lang":"en","has_extended_profile":false,"profile_sidebar_border_color":"000000","profile_text_color":"383838","verified":false,"profile_image_url":"http: //pbs.twimg.com/profile_images/693378590960779265/JYO9QRaF_normal.png","time_zone":"AtlanticTime(Canada)","url":"http: //t.co/3K7Lz3Hwf5","contributors_enabled":false,"profile_background_tile":false,"profile_banner_url":"https: //pbs.twimg.com/profile_banners/16308920/1460990915","entities":{"description":{"urls":[]},"url":{"urls":[{"display_url":"haligonia.ca","indices":[0,22],"expanded_url":"http: //www.haligonia.ca","url":"http: //t.co/3K7Lz3Hwf5"}]}},"statuses_count":65231,"follow_request_sent":false,"followers_count":96535,"profile_use_background_image":true,"default_profile":false,"following":true,"name":"haligonia: hfxnews","location":"HalifaxNovaScotiaCanada","profile_sidebar_fill_color":"D0CDCD","notifications":false}}",
+{
+	"possibly_sensitive_appealable": false,
+	"extended_entities": {
+		"media": [{
+			"display_url": "pic.twitter.com/W5avzsPkuR",
+			"indices": [47,
+			70],
+			"sizes": {
+				"small": {
+					"w": 340,
+					"h": 340,
+					"resize": "fit"
+				},
+				"large": {
+					"w": 1024,
+					"h": 1024,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"medium": {
+					"w": 600,
+					"h": 600,
+					"resize": "fit"
+				}
+			},
+			"id_str": "735610768779923456",
+			"expanded_url": "http://twitter.com/haligonia/status/735610769329389568/photo/1",
+			"media_url_https": "https://pbs.twimg.com/media/CjVqGMYUUAA3SiF.jpg",
+			"id": 735610768779923456,
+			"type": "photo",
+			"media_url": "http://pbs.twimg.com/media/CjVqGMYUUAA3SiF.jpg",
+			"url": "https://t.co/W5avzsPkuR"
+		}]
+	},
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_status_id": null,
+	"created_at": "Wed May 25 23:17:29 +0000 2016",
+	"in_reply_to_user_id_str": null,
+	"source": "<a href=\\"http: //dlvr.it\\" rel=\\"nofollow\\">dlvr.it<\\/a>",
+	"retweet_count": 0,
+	"retweeted": false,
+	"geo": {
+		"coordinates": [44.6494428,
+		-63.5782661],
+		"type": "Point"
+	},
+	"in_reply_to_screen_name": null,
+	"is_quote_status": false,
+	"id_str": "735610769329389568",
+	"in_reply_to_user_id": null,
+	"favorite_count": 0,
+	"id": 735610769329389568,
+	"text": "? | Thursday: A few showers. High 17. #Halifax https://t.co/W5avzsPkuR",
+	"place": {
+		"country_code": "CA",
+		"country": "Canada",
+		"contained_within": [],
+		"full_name": "Halifax, Nova Scotia",
+		"bounding_box": {
+			"coordinates": [[[-64.237659,
+			43.366298],
+			[-59.385802,
+			43.366298],
+			[-59.385802,
+			45.27617],
+			[-64.237659,
+			45.27617]]],
+			"type": "Polygon"
+		},
+		"place_type": "city",
+		"name": "Halifax",
+		"attributes": {
+			
+		},
+		"id": "5d058f2e9fe1516c",
+		"url": "https://api.twitter.com/1.1/geo/id/5d058f2e9fe1516c.json"
+	},
+	"lang": "en",
+	"favorited": false,
+	"possibly_sensitive": false,
+	"coordinates": {
+		"coordinates": [-63.5782661,
+		44.6494428],
+		"type": "Point"
+	},
+	"truncated": false,
+	"entities": {
+		"urls": [],
+		"hashtags": [{
+			"indices": [38,
+			46],
+			"text": "Halifax"
+		}],
+		"media": [{
+			"display_url": "pic.twitter.com/W5avzsPkuR",
+			"indices": [47,
+			70],
+			"sizes": {
+				"small": {
+					"w": 340,
+					"h": 340,
+					"resize": "fit"
+				},
+				"large": {
+					"w": 1024,
+					"h": 1024,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"medium": {
+					"w": 600,
+					"h": 600,
+					"resize": "fit"
+				}
+			},
+			"id_str": "735610768779923456",
+			"expanded_url": "http://twitter.com/haligonia/status/735610769329389568/photo/1",
+			"media_url_https": "https://pbs.twimg.com/media/CjVqGMYUUAA3SiF.jpg",
+			"id": 735610768779923456,
+			"type": "photo",
+			"media_url": "http://pbs.twimg.com/media/CjVqGMYUUAA3SiF.jpg",
+			"url": "https://t.co/W5avzsPkuR"
+		}],
+		"user_mentions": [],
+		"symbols": []
+	},
+	"contributors": null,
+	"user": {
+		"utc_offset": -10800,
+		"friends_count": 30981,
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/693378590960779265/JYO9QRaF_normal.png",
+		"listed_count": 956,
+		"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/66355533/Untitled-1.png",
+		"default_profile_image": false,
+		"favourites_count": 133,
+		"description": "Often imitated, never duplicated. Breaking Halifax Nova Scotia news, weather and lifestyle-type stuff. Hello.",
+		"created_at": "Tue Sep 16 10:02:05 +0000 2008",
+		"is_translator": false,
+		"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/66355533/Untitled-1.png",
+		"protected": false,
+		"screen_name": "haligonia",
+		"id_str": "16308920",
+		"profile_link_color": "7E827D",
+		"is_translation_enabled": false,
+		"id": 16308920,
+		"geo_enabled": true,
+		"profile_background_color": "FFFFFF",
+		"lang": "en",
+		"has_extended_profile": false,
+		"profile_sidebar_border_color": "000000",
+		"profile_text_color": "383838",
+		"verified": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/693378590960779265/JYO9QRaF_normal.png",
+		"time_zone": "Atlantic Time (Canada)",
+		"url": "http://t.co/3K7Lz3Hwf5",
+		"contributors_enabled": false,
+		"profile_background_tile": false,
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/16308920/1460990915",
+		"entities": {
+			"description": {
+				"urls": []
+			},
+			"url": {
+				"urls": [{
+					"display_url": "haligonia.ca",
+					"indices": [0,
+					22],
+					"expanded_url": "http://www.haligonia.ca",
+					"url": "http://t.co/3K7Lz3Hwf5"
+				}]
+			}
+		},
+		"statuses_count": 65231,
+		"follow_request_sent": false,
+		"followers_count": 96535,
+		"profile_use_background_image": true,
+		"default_profile": false,
+		"following": true,
+		"name": "haligonia: hfx news",
+		"location": "Halifax Nova Scotia Canada",
+		"profile_sidebar_fill_color": "D0CDCD",
+		"notifications": false
+	}
+}",
+{"possibly_sensitive_appealable":false,"extended_entities":{"media":[{"display_url":"pic.twitter.com/TcLkQnT3MW","source_user_id":775956193,"type":"photo","media_url":"http: //pbs.twimg.com/media/CjVsNOmWYAA5PsH.jpg","source_status_id":735613089995993088,"url":"https: //t.co/TcLkQnT3MW","indices":[91,114],"sizes":{"small":{"w":340,"h":191,"resize":"fit"},"large":{"w":1024,"h":576,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":600,"h":338,"resize":"fit"}},"id_str":"735613088657989632","expanded_url":"http: //twitter.com/indoblue82/status/735613089995993088/photo/1","source_status_id_str":"735613089995993088","media_url_https":"https: //pbs.twimg.com/media/CjVsNOmWYAA5PsH.jpg","id":735613088657989632,"source_user_id_str":"775956193"}]},"in_reply_to_status_id_str":null,"in_reply_to_status_id":null,"created_at":"WedMay2523: 29: 04+00002016","in_reply_to_user_id_str":null,"source":"<ahref=\\"http://dlvr.it\\"rel=\\"nofollow\\">dlvr.it<\\/a>","retweet_count":0,"retweeted":false,"geo":{"coordinates":[44.6537582,-63.6134827],"type":"Point"},"in_reply_to_screen_name":null,"is_quote_status":false,"id_str":"735613684580421632","in_reply_to_user_id":null,"favorite_count":2,"id":735613684580421632,"text":"Watchingthefogrolloutin#haligonia#Halifax#Dartmouth#easternpassageVia@nattymorrhttps: //t.co/TcLkQnT3MW","place":{"country_code":"CA","country":"Canada","contained_within":[],"full_name":"Halifax,
+NovaScotia","bounding_box":{"coordinates":[[[-64.237659,43.366298],[-59.385802,43.366298],[-59.385802,45.27617],[-64.237659,45.27617]]],"type":"Polygon"},"place_type":"city","name":"Halifax","attributes":{},"id":"5d058f2e9fe1516c","url":"https: //api.twitter.com/1.1/geo/id/5d058f2e9fe1516c.json"},"lang":"en","favorited":false,"possibly_sensitive":false,"coordinates":{"coordinates":[-63.6134827,44.6537582],"type":"Point"},"truncated":false,"entities":{"urls":[],"hashtags":[{"indices":[29,39],"text":"haligonia"},{"indices":[40,48],"text":"Halifax"},{"indices":[49,59],"text":"Dartmouth"},{"indices":[60,75],"text":"easternpassage"}],"media":[{"display_url":"pic.twitter.com/TcLkQnT3MW","source_user_id":775956193,"type":"photo","media_url":"http: //pbs.twimg.com/media/CjVsNOmWYAA5PsH.jpg","source_status_id":735613089995993088,"url":"https: //t.co/TcLkQnT3MW","indices":[91,114],"sizes":{"small":{"w":340,"h":191,"resize":"fit"},"large":{"w":1024,"h":576,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":600,"h":338,"resize":"fit"}},"id_str":"735613088657989632","expanded_url":"http: //twitter.com/indoblue82/status/735613089995993088/photo/1","source_status_id_str":"735613089995993088","media_url_https":"https: //pbs.twimg.com/media/CjVsNOmWYAA5PsH.jpg","id":735613088657989632,"source_user_id_str":"775956193"}],"user_mentions":[{"indices":[80,90],"screen_name":"NattyMorr","id_str":"42717208","name":"NatashaMorrison","id":42717208}],"symbols":[]},"contributors":null,"user":{"utc_offset":-10800,"friends_count":30981,"profile_image_url_https":"https: //pbs.twimg.com/profile_images/693378590960779265/JYO9QRaF_normal.png","listed_count":956,"profile_background_image_url":"http: //pbs.twimg.com/profile_background_images/66355533/Untitled-1.png","default_profile_image":false,"favourites_count":133,"description":"Oftenimitated,
+neverduplicated.BreakingHalifaxNovaScotianews,
+weatherandlifestyle-typestuff.Hello.","created_at":"TueSep1610: 02: 05+00002008","is_translator":false,"profile_background_image_url_https":"https: //pbs.twimg.com/profile_background_images/66355533/Untitled-1.png","protected":false,"screen_name":"haligonia","id_str":"16308920","profile_link_color":"7E827D","is_translation_enabled":false,"id":16308920,"geo_enabled":true,"profile_background_color":"FFFFFF","lang":"en","has_extended_profile":false,"profile_sidebar_border_color":"000000","profile_text_color":"383838","verified":false,"profile_image_url":"http: //pbs.twimg.com/profile_images/693378590960779265/JYO9QRaF_normal.png","time_zone":"AtlanticTime(Canada)","url":"http: //t.co/3K7Lz3Hwf5","contributors_enabled":false,"profile_background_tile":false,"profile_banner_url":"https: //pbs.twimg.com/profile_banners/16308920/1460990915","entities":{"description":{"urls":[]},"url":{"urls":[{"display_url":"haligonia.ca","indices":[0,22],"expanded_url":"http: //www.haligonia.ca","url":"http: //t.co/3K7Lz3Hwf5"}]}},"statuses_count":65231,"follow_request_sent":false,"followers_count":96535,"profile_use_background_image":true,"default_profile":false,"following":true,"name":"haligonia: hfxnews","location":"HalifaxNovaScotiaCanada","profile_sidebar_fill_color":"D0CDCD","notifications":false}}",
+{
+	"possibly_sensitive_appealable": false,
+	"extended_entities": {
+		"media": [{
+			"display_url": "pic.twitter.com/ULjLNg2mum",
+			"indices": [101,
+			124],
+			"sizes": {
+				"small": {
+					"w": 340,
+					"h": 191,
+					"resize": "fit"
+				},
+				"large": {
+					"w": 620,
+					"h": 349,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"medium": {
+					"w": 600,
+					"h": 338,
+					"resize": "fit"
+				}
+			},
+			"id_str": "735613998045990913",
+			"expanded_url": "http://twitter.com/CBCNews/status/735613998289281026/photo/1",
+			"media_url_https": "https://pbs.twimg.com/media/CjVtCKVWEAE-YOK.jpg",
+			"id": 735613998045990913,
+			"type": "photo",
+			"media_url": "http://pbs.twimg.com/media/CjVtCKVWEAE-YOK.jpg",
+			"url": "https://t.co/ULjLNg2mum"
+		}]
+	},
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_status_id": null,
+	"created_at": "Wed May 25 23:30:18 +0000 2016",
+	"in_reply_to_user_id_str": null,
+	"source": "<a href=\\"http: //bufferapp.com\\" rel=\\"nofollow\\">Buffer<\\/a>",
+	"retweet_count": 5,
+	"retweeted": false,
+	"geo": null,
+	"in_reply_to_screen_name": null,
+	"is_quote_status": false,
+	"id_str": "735613998289281026",
+	"in_reply_to_user_id": null,
+	"favorite_count": 13,
+	"id": 735613998289281026,
+	"text": "CRTC pushes cable providers, public to tell all about new $25 basic TV packs https://t.co/hAwJjV5t9l https://t.co/ULjLNg2mum",
+	"place": null,
+	"lang": "en",
+	"favorited": false,
+	"possibly_sensitive": false,
+	"coordinates": null,
+	"truncated": false,
+	"entities": {
+		"urls": [{
+			"display_url": "cbc.ca/1.3598340",
+			"indices": [77,
+			100],
+			"expanded_url": "http://www.cbc.ca/1.3598340",
+			"url": "https://t.co/hAwJjV5t9l"
+		}],
+		"hashtags": [],
+		"media": [{
+			"display_url": "pic.twitter.com/ULjLNg2mum",
+			"indices": [101,
+			124],
+			"sizes": {
+				"small": {
+					"w": 340,
+					"h": 191,
+					"resize": "fit"
+				},
+				"large": {
+					"w": 620,
+					"h": 349,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"medium": {
+					"w": 600,
+					"h": 338,
+					"resize": "fit"
+				}
+			},
+			"id_str": "735613998045990913",
+			"expanded_url": "http://twitter.com/CBCNews/status/735613998289281026/photo/1",
+			"media_url_https": "https://pbs.twimg.com/media/CjVtCKVWEAE-YOK.jpg",
+			"id": 735613998045990913,
+			"type": "photo",
+			"media_url": "http://pbs.twimg.com/media/CjVtCKVWEAE-YOK.jpg",
+			"url": "https://t.co/ULjLNg2mum"
+		}],
+		"user_mentions": [],
+		"symbols": []
+	},
+	"contributors": null,
+	"user": {
+		"utc_offset": -14400,
+		"friends_count": 2313,
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/466664981673410560/886Az0vu_normal.jpeg",
+		"listed_count": 12552,
+		"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/167724092/cbcnews_twitter_pg-yellow.JPG",
+		"default_profile_image": false,
+		"favourites_count": 5340,
+		"description": "Canadian breaking news and analysis from CBCNews.ca, TV and radio.",
+		"created_at": "Wed May 30 05:20:39 +0000 2007",
+		"is_translator": false,
+		"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/167724092/cbcnews_twitter_pg-yellow.JPG",
+		"protected": false,
+		"screen_name": "CBCNews",
+		"id_str": "6433472",
+		"profile_link_color": "FF0000",
+		"is_translation_enabled": false,
+		"id": 6433472,
+		"geo_enabled": true,
+		"profile_background_color": "000000",
+		"lang": "en",
+		"has_extended_profile": false,
+		"profile_sidebar_border_color": "F2E195",
+		"profile_text_color": "0C3E53",
+		"verified": true,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/466664981673410560/886Az0vu_normal.jpeg",
+		"time_zone": "Eastern Time (US & Canada)",
+		"url": "http://t.co/ZLZObOnET1",
+		"contributors_enabled": false,
+		"profile_background_tile": false,
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/6433472/1400096610",
+		"entities": {
+			"description": {
+				"urls": []
+			},
+			"url": {
+				"urls": [{
+					"display_url": "cbc.ca/news/",
+					"indices": [0,
+					22],
+					"expanded_url": "http://www.cbc.ca/news/",
+					"url": "http://t.co/ZLZObOnET1"
+				}]
+			}
+		},
+		"statuses_count": 150293,
+		"follow_request_sent": false,
+		"followers_count": 1781576,
+		"profile_use_background_image": true,
+		"default_profile": false,
+		"following": true,
+		"name": "CBC News",
+		"location": "Canada",
+		"profile_sidebar_fill_color": "FFF7CC",
+		"notifications": false
+	}
+}",
+{"possibly_sensitive_appealable":false,"extended_entities":{"media":[{"display_url":"pic.twitter.com/ayBlVkWOPi","source_user_id":21216178,"type":"photo","media_url":"http: //pbs.twimg.com/media/CjVrb5UXAAIDbos.jpg","source_status_id":735612241702195200,"url":"https: //t.co/ayBlVkWOPi","indices":[110,133],"sizes":{"small":{"w":340,"h":228,"resize":"fit"},"large":{"w":545,"h":365,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":545,"h":365,"resize":"fit"}},"id_str":"735612241131798530","expanded_url":"http: //twitter.com/vancouvermetro/status/735612241702195200/photo/1","source_status_id_str":"735612241702195200","media_url_https":"https: //pbs.twimg.com/media/CjVrb5UXAAIDbos.jpg","id":735612241131798530,"source_user_id_str":"21216178"}]},"in_reply_to_status_id_str":null,"in_reply_to_status_id":null,"created_at":"WedMay2523: 36: 28+00002016","in_reply_to_user_id_str":null,"source":"<ahref=\\"http://www.hootsuite.com\\"rel=\\"nofollow\\">Hootsuite<\\/a>","retweeted_status":{"possibly_sensitive_appealable":false,"extended_entities":{"media":[{"display_url":"pic.twitter.com/ayBlVkWOPi","indices":[90,113],"sizes":{"small":{"w":340,"h":228,"resize":"fit"},"large":{"w":545,"h":365,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":545,"h":365,"resize":"fit"}},"id_str":"735612241131798530","expanded_url":"http: //twitter.com/vancouvermetro/status/735612241702195200/photo/1","media_url_https":"https: //pbs.twimg.com/media/CjVrb5UXAAIDbos.jpg","id":735612241131798530,"type":"photo","media_url":"http: //pbs.twimg.com/media/CjVrb5UXAAIDbos.jpg","url":"https: //t.co/ayBlVkWOPi"}]},"in_reply_to_status_id_str":null,"in_reply_to_status_id":null,"created_at":"WedMay2523: 23: 20+00002016","in_reply_to_user_id_str":null,"source":"<ahref=\\"http://www.hootsuite.com\\"rel=\\"nofollow\\">Hootsuite<\\/a>","retweet_count":9,"retweeted":false,"geo":null,"in_reply_to_screen_name":null,"is_quote_status":false,"id_str":"735612241702195200","in_reply_to_user_id":null,"favorite_count":2,"id":735612241702195200,"text":"Nochargesinbizarreincidentwithnakedwoman: Vancouverpolicehttps: //t.co/Nxds216Y69https: //t.co/ayBlVkWOPi","place":null,"lang":"en","favorited":false,"possibly_sensitive":false,"coordinates":null,"truncated":false,"entities":{"urls":[{"display_url":"ow.ly/EiUi300AJ8x","indices":[66,89],"expanded_url":"http: //ow.ly/EiUi300AJ8x","url":"https: //t.co/Nxds216Y69"}],"hashtags":[],"media":[{"display_url":"pic.twitter.com/ayBlVkWOPi","indices":[90,113],"sizes":{"small":{"w":340,"h":228,"resize":"fit"},"large":{"w":545,"h":365,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":545,"h":365,"resize":"fit"}},"id_str":"735612241131798530","expanded_url":"http: //twitter.com/vancouvermetro/status/735612241702195200/photo/1","media_url_https":"https: //pbs.twimg.com/media/CjVrb5UXAAIDbos.jpg","id":735612241131798530,"type":"photo","media_url":"http: //pbs.twimg.com/media/CjVrb5UXAAIDbos.jpg","url":"https: //t.co/ayBlVkWOPi"}],"user_mentions":[],"symbols":[]},"contributors":null,"user":{"utc_offset":-25200,"friends_count":3386,"profile_image_url_https":"https: //pbs.twimg.com/profile_images/580468033245810690/nig9f8cb_normal.png","listed_count":1145,"profile_background_image_url":"http: //pbs.twimg.com/profile_background_images/196754726/2011_new_Twitter_background.gif","default_profile_image":false,"favourites_count":19,"description":"TopstoriesfromMetroVancouver","created_at":"WedFeb1817: 14: 25+00002009","is_translator":false,"profile_background_image_url_https":"https: //pbs.twimg.com/profile_background_images/196754726/2011_new_Twitter_background.gif","protected":false,"screen_name":"vancouvermetro","id_str":"21216178","profile_link_color":"006633","is_translation_enabled":false,"id":21216178,"geo_enabled":false,"profile_background_color":"003300","lang":"en","has_extended_profile":false,"profile_sidebar_border_color":"FFFFFF","profile_text_color":"333333","verified":true,"profile_image_url":"http: //pbs.twimg.com/profile_images/580468033245810690/nig9f8cb_normal.png","time_zone":"PacificTime(US&Canada)","url":"http: //t.co/y27jpsJxjp","contributors_enabled":false,"profile_background_tile":false,"profile_banner_url":"https: //pbs.twimg.com/profile_banners/21216178/1429829682","entities":{"description":{"urls":[]},"url":{"urls":[{"display_url":"metronews.ca","indices":[0,22],"expanded_url":"http: //www.metronews.ca","url":"http: //t.co/y27jpsJxjp"}]}},"statuses_count":35517,"follow_request_sent":false,"followers_count":49778,"profile_use_background_image":true,"default_profile":false,"following":false,"name":"MetroVancouver","location":"Vancouver,
+BritishColumbia","profile_sidebar_fill_color":"EAFFBF","notifications":false}},"retweet_count":9,"retweeted":false,"geo":null,"in_reply_to_screen_name":null,"is_quote_status":false,"id_str":"735615547119939584","in_reply_to_user_id":null,"favorite_count":0,"id":735615547119939584,"text":"RT@vancouvermetro: Nochargesinbizarreincidentwithnakedwoman: Vancouverpolicehttps: //t.co/Nxds216Y69https: //t.co/ayBlVkWOPi","place":null,"lang":"en","favorited":false,"possibly_sensitive":false,"coordinates":null,"truncated":false,"entities":{"urls":[{"display_url":"ow.ly/EiUi300AJ8x","indices":[86,109],"expanded_url":"http: //ow.ly/EiUi300AJ8x","url":"https: //t.co/Nxds216Y69"}],"hashtags":[],"media":[{"display_url":"pic.twitter.com/ayBlVkWOPi","source_user_id":21216178,"type":"photo","media_url":"http: //pbs.twimg.com/media/CjVrb5UXAAIDbos.jpg","source_status_id":735612241702195200,"url":"https: //t.co/ayBlVkWOPi","indices":[110,133],"sizes":{"small":{"w":340,"h":228,"resize":"fit"},"large":{"w":545,"h":365,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":545,"h":365,"resize":"fit"}},"id_str":"735612241131798530","expanded_url":"http: //twitter.com/vancouvermetro/status/735612241702195200/photo/1","source_status_id_str":"735612241702195200","media_url_https":"https: //pbs.twimg.com/media/CjVrb5UXAAIDbos.jpg","id":735612241131798530,"source_user_id_str":"21216178"}],"user_mentions":[{"indices":[3,18],"screen_name":"vancouvermetro","id_str":"21216178","name":"MetroVancouver","id":21216178}],"symbols":[]},"contributors":null,"user":{"utc_offset":-10800,"friends_count":2052,"profile_image_url_https":"https: //pbs.twimg.com/profile_images/580466414622007296/YTHDAUv3_normal.png","listed_count":772,"profile_background_image_url":"http: //pbs.twimg.com/profile_background_images/196757509/2011_new_Twitter_background.gif","default_profile_image":false,"favourites_count":27,"description":"TopstoriesfromMetroHalifax.","created_at":"WedFeb1816: 46: 22+00002009","is_translator":false,"profile_background_image_url_https":"https: //pbs.twimg.com/profile_background_images/196757509/2011_new_Twitter_background.gif","protected":false,"screen_name":"metrohalifax","id_str":"21213416","profile_link_color":"003300","is_translation_enabled":false,"id":21213416,"geo_enabled":false,"profile_background_color":"003300","lang":"en","has_extended_profile":false,"profile_sidebar_border_color":"FFFFFF","profile_text_color":"333333","verified":true,"profile_image_url":"http: //pbs.twimg.com/profile_images/580466414622007296/YTHDAUv3_normal.png","time_zone":"AtlanticTime(Canada)","url":"http: //t.co/DmOFyn1Yfe","contributors_enabled":false,"profile_background_tile":false,"profile_banner_url":"https: //pbs.twimg.com/profile_banners/21213416/1399069495","entities":{"description":{"urls":[]},"url":{"urls":[{"display_url":"metronews.ca","indices":[0,22],"expanded_url":"http: //www.metronews.ca","url":"http: //t.co/DmOFyn1Yfe"}]}},"statuses_count":42664,"follow_request_sent":false,"followers_count":67232,"profile_use_background_image":true,"default_profile":false,"following":true,"name":"MetroHalifax","location":"Halifax,
+NovaScotia","profile_sidebar_fill_color":"EAFFBF","notifications":false}}",
+{
+	"possibly_sensitive_appealable": false,
+	"extended_entities": {
+		"media": [{
+			"display_url": "pic.twitter.com/9K7Lh9DmJ4",
+			"indices": [115,
+			138],
+			"sizes": {
+				"small": {
+					"w": 340,
+					"h": 170,
+					"resize": "fit"
+				},
+				"large": {
+					"w": 594,
+					"h": 297,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"medium": {
+					"w": 594,
+					"h": 297,
+					"resize": "fit"
+				}
+			},
+			"id_str": "735616315273162752",
+			"expanded_url": "http://twitter.com/SAI/status/735616315591921664/photo/1",
+			"media_url_https": "https://pbs.twimg.com/media/CjVvJCrWsAAvmRO.jpg",
+			"id": 735616315273162752,
+			"type": "photo",
+			"media_url": "http://pbs.twimg.com/media/CjVvJCrWsAAvmRO.jpg",
+			"url": "https://t.co/9K7Lh9DmJ4"
+		}]
+	},
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_status_id": null,
+	"created_at": "Wed May 25 23:39:31 +0000 2016",
+	"in_reply_to_user_id_str": null,
+	"source": "<a href=\\"http: //www.businessinsider.com\\" rel=\\"nofollow\\">Business Insider<\\/a>",
+	"retweet_count": 3,
+	"retweeted": false,
+	"geo": null,
+	"in_reply_to_screen_name": null,
+	"is_quote_status": false,
+	"id_str": "735616315591921664",
+	"in_reply_to_user_id": null,
+	"favorite_count": 3,
+	"id": 735616315591921664,
+	"text": "A stark new reminder that investors don't really care about Yahoo's core internet business https://t.co/togkoE15O4 https://t.co/9K7Lh9DmJ4",
+	"place": null,
+	"lang": "en",
+	"favorited": false,
+	"possibly_sensitive": false,
+	"coordinates": null,
+	"truncated": false,
+	"entities": {
+		"urls": [{
+			"display_url": "read.bi/1TAaUFV",
+			"indices": [91,
+			114],
+			"expanded_url": "http://read.bi/1TAaUFV",
+			"url": "https://t.co/togkoE15O4"
+		}],
+		"hashtags": [],
+		"media": [{
+			"display_url": "pic.twitter.com/9K7Lh9DmJ4",
+			"indices": [115,
+			138],
+			"sizes": {
+				"small": {
+					"w": 340,
+					"h": 170,
+					"resize": "fit"
+				},
+				"large": {
+					"w": 594,
+					"h": 297,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"medium": {
+					"w": 594,
+					"h": 297,
+					"resize": "fit"
+				}
+			},
+			"id_str": "735616315273162752",
+			"expanded_url": "http://twitter.com/SAI/status/735616315591921664/photo/1",
+			"media_url_https": "https://pbs.twimg.com/media/CjVvJCrWsAAvmRO.jpg",
+			"id": 735616315273162752,
+			"type": "photo",
+			"media_url": "http://pbs.twimg.com/media/CjVvJCrWsAAvmRO.jpg",
+			"url": "https://t.co/9K7Lh9DmJ4"
+		}],
+		"user_mentions": [],
+		"symbols": []
+	},
+	"contributors": null,
+	"user": {
+		"utc_offset": -14400,
+		"friends_count": 64,
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/573908838190968833/LbVrX0tp_normal.png",
+		"listed_count": 14820,
+		"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"default_profile_image": false,
+		"favourites_count": 30,
+		"description": "The latest tech news from @BusinessInsider.",
+		"created_at": "Wed Sep 12 21:09:11 +0000 2007",
+		"is_translator": false,
+		"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"protected": false,
+		"screen_name": "SAI",
+		"id_str": "8841372",
+		"profile_link_color": "185F7C",
+		"is_translation_enabled": false,
+		"id": 8841372,
+		"geo_enabled": true,
+		"profile_background_color": "000000",
+		"lang": "en",
+		"has_extended_profile": false,
+		"profile_sidebar_border_color": "000000",
+		"profile_text_color": "000000",
+		"verified": true,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/573908838190968833/LbVrX0tp_normal.png",
+		"time_zone": "Eastern Time (US & Canada)",
+		"url": "http://t.co/WTYREgWa73",
+		"contributors_enabled": false,
+		"profile_background_tile": false,
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/8841372/1456623106",
+		"entities": {
+			"description": {
+				"urls": []
+			},
+			"url": {
+				"urls": [{
+					"display_url": "businessinsider.com/sai",
+					"indices": [0,
+					22],
+					"expanded_url": "http://www.businessinsider.com/sai",
+					"url": "http://t.co/WTYREgWa73"
+				}]
+			}
+		},
+		"statuses_count": 111984,
+		"follow_request_sent": false,
+		"followers_count": 1368581,
+		"profile_use_background_image": false,
+		"default_profile": false,
+		"following": true,
+		"name": "BI Tech",
+		"location": "New York, NY",
+		"profile_sidebar_fill_color": "000000",
+		"notifications": false
+	}
+}",
+{"possibly_sensitive_appealable":false,"extended_entities":{"media":[{"display_url":"pic.twitter.com/n20HMTMMe9","indices":[111,134],"sizes":{"small":{"w":340,"h":170,"resize":"fit"},"large":{"w":1024,"h":512,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":600,"h":300,"resize":"fit"}},"id_str":"735616567560548353","expanded_url":"http: //twitter.com/SAI/status/735616567984201728/photo/1","media_url_https":"https: //pbs.twimg.com/media/CjVvXuhWsAEdZup.jpg","id":735616567560548353,"type":"photo","media_url":"http: //pbs.twimg.com/media/CjVvXuhWsAEdZup.jpg","url":"https: //t.co/n20HMTMMe9"}]},"in_reply_to_status_id_str":null,"in_reply_to_status_id":null,"created_at":"WedMay2523: 40: 31+00002016","in_reply_to_user_id_str":null,"source":"<ahref=\\"http://www.businessinsider.com\\"rel=\\"nofollow\\">BusinessInsider<\\/a>","retweet_count":4,"retweeted":false,"geo":null,"in_reply_to_screen_name":null,"is_quote_status":false,"id_str":"735616567984201728","in_reply_to_user_id":null,"favorite_count":5,"id":735616567984201728,"text":"GooglejustthrewawrenchintooneofMicrosoftCEOSatyaNadella\\u2019sfavoriteprojectshttps: //t.co/7EOwCzxeP3https: //t.co/n20HMTMMe9","place":null,"lang":"en","favorited":false,"possibly_sensitive":false,"coordinates":null,"truncated":false,"entities":{"urls":[{"display_url":"read.bi/1TAfioz","indices":[87,110],"expanded_url":"http: //read.bi/1TAfioz","url":"https: //t.co/7EOwCzxeP3"}],"hashtags":[],"media":[{"display_url":"pic.twitter.com/n20HMTMMe9","indices":[111,134],"sizes":{"small":{"w":340,"h":170,"resize":"fit"},"large":{"w":1024,"h":512,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":600,"h":300,"resize":"fit"}},"id_str":"735616567560548353","expanded_url":"http: //twitter.com/SAI/status/735616567984201728/photo/1","media_url_https":"https: //pbs.twimg.com/media/CjVvXuhWsAEdZup.jpg","id":735616567560548353,"type":"photo","media_url":"http: //pbs.twimg.com/media/CjVvXuhWsAEdZup.jpg","url":"https: //t.co/n20HMTMMe9"}],"user_mentions":[],"symbols":[]},"contributors":null,"user":{"utc_offset":-14400,"friends_count":64,"profile_image_url_https":"https: //pbs.twimg.com/profile_images/573908838190968833/LbVrX0tp_normal.png","listed_count":14820,"profile_background_image_url":"http: //abs.twimg.com/images/themes/theme1/bg.png","default_profile_image":false,"favourites_count":30,"description":"Thelatesttechnewsfrom@BusinessInsider.","created_at":"WedSep1221: 09: 11+00002007","is_translator":false,"profile_background_image_url_https":"https: //abs.twimg.com/images/themes/theme1/bg.png","protected":false,"screen_name":"SAI","id_str":"8841372","profile_link_color":"185F7C","is_translation_enabled":false,"id":8841372,"geo_enabled":true,"profile_background_color":"000000","lang":"en","has_extended_profile":false,"profile_sidebar_border_color":"000000","profile_text_color":"000000","verified":true,"profile_image_url":"http: //pbs.twimg.com/profile_images/573908838190968833/LbVrX0tp_normal.png","time_zone":"EasternTime(US&Canada)","url":"http: //t.co/WTYREgWa73","contributors_enabled":false,"profile_background_tile":false,"profile_banner_url":"https: //pbs.twimg.com/profile_banners/8841372/1456623106","entities":{"description":{"urls":[]},"url":{"urls":[{"display_url":"businessinsider.com/sai","indices":[0,22],"expanded_url":"http: //www.businessinsider.com/sai","url":"http: //t.co/WTYREgWa73"}]}},"statuses_count":111984,"follow_request_sent":false,"followers_count":1368581,"profile_use_background_image":false,"default_profile":false,"following":true,"name":"BITech","location":"NewYork,
+NY","profile_sidebar_fill_color":"000000","notifications":false}}",
+{
+	"possibly_sensitive_appealable": false,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_status_id": null,
+	"created_at": "Wed May 25 23:42:28 +0000 2016",
+	"in_reply_to_user_id_str": null,
+	"source": "<a href=\\"http: //twitter.com\\" rel=\\"nofollow\\">Twitter Web Client<\\/a>",
+	"retweeted_status": {
+		"possibly_sensitive_appealable": false,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_status_id": null,
+		"created_at": "Wed May 25 16:46:09 +0000 2016",
+		"in_reply_to_user_id_str": null,
+		"source": "<a href=\\"http: //twitter.com\\" rel=\\"nofollow\\">Twitter Web Client<\\/a>",
+		"retweet_count": 9,
+		"retweeted": false,
+		"geo": null,
+		"in_reply_to_screen_name": null,
+		"is_quote_status": false,
+		"id_str": "735512289982353408",
+		"in_reply_to_user_id": null,
+		"favorite_count": 8,
+		"id": 735512289982353408,
+		"text": "If you are in SF next week &amp; want to learn Angular 2, I'll be with @simpulton. (&lt;3 the package options available)  https://t.co/wCPPG0AC12",
+		"place": null,
+		"lang": "en",
+		"favorited": false,
+		"possibly_sensitive": false,
+		"coordinates": null,
+		"truncated": false,
+		"entities": {
+			"urls": [{
+				"display_url": "onehungrymind.com/workshops/",
+				"indices": [122,
+				145],
+				"expanded_url": "http://onehungrymind.com/workshops/",
+				"url": "https://t.co/wCPPG0AC12"
+			}],
+			"hashtags": [],
+			"user_mentions": [{
+				"indices": [71,
+				81],
+				"screen_name": "simpulton",
+				"id_str": "33610839",
+				"name": "Lukas Ruebbelke",
+				"id": 33610839
+			}],
+			"symbols": []
+		},
+		"contributors": null,
+		"user": {
+			"utc_offset": -25200,
+			"friends_count": 1366,
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/735264388865609729/1QVIbLOg_normal.jpg",
+			"listed_count": 110,
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"default_profile_image": false,
+			"favourites_count": 325,
+			"description": "Googler, Ashtangi, Beer Lover and Angular.",
+			"created_at": "Sun Sep 30 04:06:21 +0000 2007",
+			"is_translator": false,
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"protected": false,
+			"screen_name": "jules_kremer",
+			"id_str": "9167652",
+			"profile_link_color": "0084B4",
+			"is_translation_enabled": false,
+			"id": 9167652,
+			"geo_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"lang": "en",
+			"has_extended_profile": false,
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_text_color": "333333",
+			"verified": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/735264388865609729/1QVIbLOg_normal.jpg",
+			"time_zone": "Pacific Time (US & Canada)",
+			"url": null,
+			"contributors_enabled": false,
+			"profile_background_tile": false,
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9167652/1463717509",
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"statuses_count": 1564,
+			"follow_request_sent": false,
+			"followers_count": 2225,
+			"profile_use_background_image": false,
+			"default_profile": false,
+			"following": false,
+			"name": "Jules Kremer",
+			"location": "San Diego, California",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"notifications": false
+		}
+	},
+	"retweet_count": 9,
+	"retweeted": false,
+	"geo": null,
+	"in_reply_to_screen_name": null,
+	"is_quote_status": false,
+	"id_str": "735617057694175232",
+	"in_reply_to_user_id": null,
+	"favorite_count": 0,
+	"id": 735617057694175232,
+	"text": "RT @jules_kremer: If you are in SF next week &amp; want to learn Angular 2, I'll be with @simpulton. (&lt;3 the package options available)  https:\\u2026",
+	"place": null,
+	"lang": "en",
+	"favorited": false,
+	"possibly_sensitive": false,
+	"coordinates": null,
+	"truncated": false,
+	"entities": {
+		"urls": [{
+			"display_url": "onehungrymind.com/workshops/",
+			"indices": [146,
+			147],
+			"expanded_url": "http://onehungrymind.com/workshops/",
+			"url": "https://t.co/wCPPG0AC12"
+		}],
+		"hashtags": [],
+		"user_mentions": [{
+			"indices": [3,
+			16],
+			"screen_name": "jules_kremer",
+			"id_str": "9167652",
+			"name": "Jules Kremer",
+			"id": 9167652
+		},
+		{
+			"indices": [89,
+			99],
+			"screen_name": "simpulton",
+			"id_str": "33610839",
+			"name": "Lukas Ruebbelke",
+			"id": 33610839
+		}],
+		"symbols": []
+	},
+	"contributors": null,
+	"user": {
+		"utc_offset": -25200,
+		"friends_count": 101,
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/727278046646915072/cb8U-gL6_normal.jpg",
+		"listed_count": 3211,
+		"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"default_profile_image": false,
+		"favourites_count": 1489,
+		"description": "Bringing \\u201csimple\\u201d back to the development of complex webapps...",
+		"created_at": "Wed Oct 13 15:49:37 +0000 2010",
+		"is_translator": false,
+		"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"protected": false,
+		"screen_name": "angularjs",
+		"id_str": "202230373",
+		"profile_link_color": "0084B4",
+		"is_translation_enabled": false,
+		"id": 202230373,
+		"geo_enabled": false,
+		"profile_background_color": "C0DEED",
+		"lang": "en",
+		"has_extended_profile": false,
+		"profile_sidebar_border_color": "C0DEED",
+		"profile_text_color": "333333",
+		"verified": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/727278046646915072/cb8U-gL6_normal.jpg",
+		"time_zone": "Pacific Time (US & Canada)",
+		"url": "http://t.co/jILVl7b3nk",
+		"contributors_enabled": false,
+		"profile_background_tile": false,
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/202230373/1462066193",
+		"entities": {
+			"description": {
+				"urls": []
+			},
+			"url": {
+				"urls": [{
+					"display_url": "angularjs.org",
+					"indices": [0,
+					22],
+					"expanded_url": "http://angularjs.org/",
+					"url": "http://t.co/jILVl7b3nk"
+				}]
+			}
+		},
+		"statuses_count": 2387,
+		"follow_request_sent": false,
+		"followers_count": 146082,
+		"profile_use_background_image": true,
+		"default_profile": true,
+		"following": true,
+		"name": "Angular",
+		"location": "",
+		"profile_sidebar_fill_color": "DDEEF6",
+		"notifications": false
+	}
+}",
+{"possibly_sensitive_appealable":false,"extended_entities":{"media":[{"display_url":"pic.twitter.com/wYbCjuzbpj","indices":[117,140],"sizes":{"small":{"w":340,"h":170,"resize":"fit"},"large":{"w":1024,"h":512,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":600,"h":300,"resize":"fit"}},"id_str":"735617527120822272","expanded_url":"http: //twitter.com/SAI/status/735617527301177345/photo/1","media_url_https":"https: //pbs.twimg.com/media/CjVwPlKWgAA1Vlk.jpg","id":735617527120822272,"type":"photo","media_url":"http: //pbs.twimg.com/media/CjVwPlKWgAA1Vlk.jpg","url":"https: //t.co/wYbCjuzbpj"}]},"in_reply_to_status_id_str":null,"in_reply_to_status_id":null,"created_at":"WedMay2523: 44: 20+00002016","in_reply_to_user_id_str":null,"source":"<ahref=\\"http://www.businessinsider.com\\"rel=\\"nofollow\\">BusinessInsider<\\/a>","retweet_count":3,"retweeted":false,"geo":null,"in_reply_to_screen_name":null,"is_quote_status":false,"id_str":"735617527301177345","in_reply_to_user_id":null,"favorite_count":1,"id":735617527301177345,"text":"HewlettPackardEnterpriseemployeeswere'shocked'but'gladtoberidofthatboatanchor'https: //t.co/Z1Zeo7I3XOhttps: //t.co/wYbCjuzbpj","place":null,"lang":"en","favorited":false,"possibly_sensitive":false,"coordinates":null,"truncated":false,"entities":{"urls":[{"display_url":"read.bi/1TKUm1y","indices":[93,116],"expanded_url":"http: //read.bi/1TKUm1y","url":"https: //t.co/Z1Zeo7I3XO"}],"hashtags":[],"media":[{"display_url":"pic.twitter.com/wYbCjuzbpj","indices":[117,140],"sizes":{"small":{"w":340,"h":170,"resize":"fit"},"large":{"w":1024,"h":512,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":600,"h":300,"resize":"fit"}},"id_str":"735617527120822272","expanded_url":"http: //twitter.com/SAI/status/735617527301177345/photo/1","media_url_https":"https: //pbs.twimg.com/media/CjVwPlKWgAA1Vlk.jpg","id":735617527120822272,"type":"photo","media_url":"http: //pbs.twimg.com/media/CjVwPlKWgAA1Vlk.jpg","url":"https: //t.co/wYbCjuzbpj"}],"user_mentions":[],"symbols":[]},"contributors":null,"user":{"utc_offset":-14400,"friends_count":64,"profile_image_url_https":"https: //pbs.twimg.com/profile_images/573908838190968833/LbVrX0tp_normal.png","listed_count":14820,"profile_background_image_url":"http: //abs.twimg.com/images/themes/theme1/bg.png","default_profile_image":false,"favourites_count":30,"description":"Thelatesttechnewsfrom@BusinessInsider.","created_at":"WedSep1221: 09: 11+00002007","is_translator":false,"profile_background_image_url_https":"https: //abs.twimg.com/images/themes/theme1/bg.png","protected":false,"screen_name":"SAI","id_str":"8841372","profile_link_color":"185F7C","is_translation_enabled":false,"id":8841372,"geo_enabled":true,"profile_background_color":"000000","lang":"en","has_extended_profile":false,"profile_sidebar_border_color":"000000","profile_text_color":"000000","verified":true,"profile_image_url":"http: //pbs.twimg.com/profile_images/573908838190968833/LbVrX0tp_normal.png","time_zone":"EasternTime(US&Canada)","url":"http: //t.co/WTYREgWa73","contributors_enabled":false,"profile_background_tile":false,"profile_banner_url":"https: //pbs.twimg.com/profile_banners/8841372/1456623106","entities":{"description":{"urls":[]},"url":{"urls":[{"display_url":"businessinsider.com/sai","indices":[0,22],"expanded_url":"http: //www.businessinsider.com/sai","url":"http: //t.co/WTYREgWa73"}]}},"statuses_count":111984,"follow_request_sent":false,"followers_count":1368581,"profile_use_background_image":false,"default_profile":false,"following":true,"name":"BITech","location":"NewYork,
+NY","profile_sidebar_fill_color":"000000","notifications":false}}",
+{
+	"possibly_sensitive_appealable": false,
+	"extended_entities": {
+		"media": [{
+			"display_url": "pic.twitter.com/kOYpTqpM90",
+			"source_user_id": 88944711,
+			"type": "photo",
+			"media_url": "http://pbs.twimg.com/media/CjVft2HWUAEo1Xe.jpg",
+			"source_status_id": 735599355906928640,
+			"url": "https://t.co/kOYpTqpM90",
+			"indices": [121,
+			140],
+			"sizes": {
+				"small": {
+					"w": 340,
+					"h": 255,
+					"resize": "fit"
+				},
+				"large": {
+					"w": 1024,
+					"h": 768,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"medium": {
+					"w": 600,
+					"h": 450,
+					"resize": "fit"
+				}
+			},
+			"id_str": "735599355370033153",
+			"expanded_url": "http://twitter.com/MikeSavageHFX/status/735599355906928640/photo/1",
+			"source_status_id_str": "735599355906928640",
+			"media_url_https": "https://pbs.twimg.com/media/CjVft2HWUAEo1Xe.jpg",
+			"id": 735599355370033153,
+			"source_user_id_str": "88944711"
+		}]
+	},
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_status_id": null,
+	"created_at": "Wed May 25 23:47:34 +0000 2016",
+	"in_reply_to_user_id_str": null,
+	"source": "<a href=\\"http: //twitter.com/download/iphone\\" rel=\\"nofollow\\">Twitter for iPhone<\\/a>",
+	"retweeted_status": {
+		"possibly_sensitive_appealable": false,
+		"extended_entities": {
+			"media": [{
+				"display_url": "pic.twitter.com/kOYpTqpM90",
+				"indices": [102,
+				125],
+				"sizes": {
+					"small": {
+						"w": 340,
+						"h": 255,
+						"resize": "fit"
+					},
+					"large": {
+						"w": 1024,
+						"h": 768,
+						"resize": "fit"
+					},
+					"thumb": {
+						"w": 150,
+						"h": 150,
+						"resize": "crop"
+					},
+					"medium": {
+						"w": 600,
+						"h": 450,
+						"resize": "fit"
+					}
+				},
+				"id_str": "735599355370033153",
+				"expanded_url": "http://twitter.com/MikeSavageHFX/status/735599355906928640/photo/1",
+				"media_url_https": "https://pbs.twimg.com/media/CjVft2HWUAEo1Xe.jpg",
+				"id": 735599355370033153,
+				"type": "photo",
+				"media_url": "http://pbs.twimg.com/media/CjVft2HWUAEo1Xe.jpg",
+				"url": "https://t.co/kOYpTqpM90"
+			}]
+		},
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_status_id": null,
+		"created_at": "Wed May 25 22:32:07 +0000 2016",
+		"in_reply_to_user_id_str": null,
+		"source": "<a href=\\"http: //www.apple.com\\" rel=\\"nofollow\\">iOS<\\/a>",
+		"retweet_count": 4,
+		"retweeted": false,
+		"geo": null,
+		"in_reply_to_screen_name": null,
+		"is_quote_status": false,
+		"id_str": "735599355906928640",
+		"in_reply_to_user_id": null,
+		"favorite_count": 10,
+		"id": 735599355906928640,
+		"text": "This years winner of the Mayor of HRM trophy at Photographic Guild of NS. \\"HalifaxLibraryatSunset\\" https://t.co/kOYpTqpM90",
+		"place": null,
+		"lang": "en",
+		"favorited": false,
+		"possibly_sensitive": false,
+		"coordinates": null,
+		"truncated": false,
+		"entities": {
+			"urls": [],
+			"hashtags": [],
+			"media": [{
+				"display_url": "pic.twitter.com/kOYpTqpM90",
+				"indices": [102,
+				125],
+				"sizes": {
+					"small": {
+						"w": 340,
+						"h": 255,
+						"resize": "fit"
+					},
+					"large": {
+						"w": 1024,
+						"h": 768,
+						"resize": "fit"
+					},
+					"thumb": {
+						"w": 150,
+						"h": 150,
+						"resize": "crop"
+					},
+					"medium": {
+						"w": 600,
+						"h": 450,
+						"resize": "fit"
+					}
+				},
+				"id_str": "735599355370033153",
+				"expanded_url": "http://twitter.com/MikeSavageHFX/status/735599355906928640/photo/1",
+				"media_url_https": "https://pbs.twimg.com/media/CjVft2HWUAEo1Xe.jpg",
+				"id": 735599355370033153,
+				"type": "photo",
+				"media_url": "http://pbs.twimg.com/media/CjVft2HWUAEo1Xe.jpg",
+				"url": "https://t.co/kOYpTqpM90"
+			}],
+			"user_mentions": [],
+			"symbols": []
+		},
+		"contributors": null,
+		"user": {
+			"utc_offset": -10800,
+			"friends_count": 725,
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/623508638011944960/ZaIY9Ewk_normal.jpg",
+			"listed_count": 328,
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"default_profile_image": false,
+			"favourites_count": 374,
+			"description": "Official Twitter account for Halifax Mayor Mike Savage. \\n\\nFor constituent matters, municipal inquiries and event invitations, please e-mail mayor@halifax.ca.",
+			"created_at": "Tue Nov 10 15:00:17 +0000 2009",
+			"is_translator": false,
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"protected": false,
+			"screen_name": "MikeSavageHFX",
+			"id_str": "88944711",
+			"profile_link_color": "2FC2EF",
+			"is_translation_enabled": false,
+			"id": 88944711,
+			"geo_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"lang": "en",
+			"has_extended_profile": false,
+			"profile_sidebar_border_color": "181A1E",
+			"profile_text_color": "666666",
+			"verified": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/623508638011944960/ZaIY9Ewk_normal.jpg",
+			"time_zone": "Atlantic Time (Canada)",
+			"url": "http://t.co/9Zd8zqIb",
+			"contributors_enabled": false,
+			"profile_background_tile": false,
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/88944711/1442433804",
+			"entities": {
+				"description": {
+					"urls": []
+				},
+				"url": {
+					"urls": [{
+						"display_url": "Halifax.ca",
+						"indices": [0,
+						20],
+						"expanded_url": "http://Halifax.ca",
+						"url": "http://t.co/9Zd8zqIb"
+					}]
+				}
+			},
+			"statuses_count": 3751,
+			"follow_request_sent": false,
+			"followers_count": 22456,
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"following": false,
+			"name": "Office of the Mayor",
+			"location": "Halifax, Nova Scotia",
+			"profile_sidebar_fill_color": "252429",
+			"notifications": false
+		}
+	},
+	"retweet_count": 4,
+	"retweeted": false,
+	"geo": null,
+	"in_reply_to_screen_name": null,
+	"is_quote_status": false,
+	"id_str": "735618341587554304",
+	"in_reply_to_user_id": null,
+	"favorite_count": 0,
+	"id": 735618341587554304,
+	"text": "RT @MikeSavageHFX: This years winner of the Mayor of HRM trophy at Photographic Guild of NS. \\"HalifaxLibraryatSunset\\" https://t.co/kOYpT\\u2026",
+	"place": null,
+	"lang": "en",
+	"favorited": false,
+	"possibly_sensitive": false,
+	"coordinates": null,
+	"truncated": false,
+	"entities": {
+		"urls": [],
+		"hashtags": [],
+		"media": [{
+			"display_url": "pic.twitter.com/kOYpTqpM90",
+			"source_user_id": 88944711,
+			"type": "photo",
+			"media_url": "http://pbs.twimg.com/media/CjVft2HWUAEo1Xe.jpg",
+			"source_status_id": 735599355906928640,
+			"url": "https://t.co/kOYpTqpM90",
+			"indices": [121,
+			140],
+			"sizes": {
+				"small": {
+					"w": 340,
+					"h": 255,
+					"resize": "fit"
+				},
+				"large": {
+					"w": 1024,
+					"h": 768,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"medium": {
+					"w": 600,
+					"h": 450,
+					"resize": "fit"
+				}
+			},
+			"id_str": "735599355370033153",
+			"expanded_url": "http://twitter.com/MikeSavageHFX/status/735599355906928640/photo/1",
+			"source_status_id_str": "735599355906928640",
+			"media_url_https": "https://pbs.twimg.com/media/CjVft2HWUAEo1Xe.jpg",
+			"id": 735599355370033153,
+			"source_user_id_str": "88944711"
+		}],
+		"user_mentions": [{
+			"indices": [3,
+			17],
+			"screen_name": "MikeSavageHFX",
+			"id_str": "88944711",
+			"name": "Office of the Mayor",
+			"id": 88944711
+		}],
+		"symbols": []
+	},
+	"contributors": null,
+	"user": {
+		"utc_offset": -10800,
+		"friends_count": 5217,
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/466209541344874496/2_mvNvAv_normal.png",
+		"listed_count": 469,
+		"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/59962364/bg_v2.png",
+		"default_profile_image": false,
+		"favourites_count": 1124,
+		"description": "Halifax Public Libraries: Connecting People, Enriching Communities, Inspiring Discovery. FREE Wi-Fi, eBooks, magazines, music, movies. Questions? Ask us!",
+		"created_at": "Tue May 19 18:37:16 +0000 2009",
+		"is_translator": false,
+		"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/59962364/bg_v2.png",
+		"protected": false,
+		"screen_name": "hfxpublib",
+		"id_str": "41177169",
+		"profile_link_color": "4A5696",
+		"is_translation_enabled": false,
+		"id": 41177169,
+		"geo_enabled": true,
+		"profile_background_color": "1A2E75",
+		"lang": "en",
+		"has_extended_profile": false,
+		"profile_sidebar_border_color": "99ACD1",
+		"profile_text_color": "4B3F3F",
+		"verified": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/466209541344874496/2_mvNvAv_normal.png",
+		"time_zone": "Atlantic Time (Canada)",
+		"url": "http://t.co/Pasa7UvVAV",
+		"contributors_enabled": false,
+		"profile_background_tile": false,
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/41177169/1458675452",
+		"entities": {
+			"description": {
+				"urls": []
+			},
+			"url": {
+				"urls": [{
+					"display_url": "halifaxpubliclibraries.ca/about/contact/\\u2026",
+					"indices": [0,
+					22],
+					"expanded_url": "http://www.halifaxpubliclibraries.ca/about/contact/ask-a-librarian.html",
+					"url": "http://t.co/Pasa7UvVAV"
+				}]
+			}
+		},
+		"statuses_count": 11882,
+		"follow_request_sent": false,
+		"followers_count": 19658,
+		"profile_use_background_image": true,
+		"default_profile": false,
+		"following": true,
+		"name": "Halifax Libraries",
+		"location": "Halifax, Nova Scotia, Canada",
+		"profile_sidebar_fill_color": "F3F5FC",
+		"notifications": false
+	}
+}",
+{"possibly_sensitive_appealable":false,"extended_entities":{"media":[{"display_url":"pic.twitter.com/e1CgBFKOnn","indices":[84,107],"sizes":{"small":{"w":340,"h":191,"resize":"fit"},"large":{"w":460,"h":259,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":460,"h":259,"resize":"fit"}},"id_str":"735618570382680065","expanded_url":"http: //twitter.com/CBCNews/status/735618570579742720/photo/1","media_url_https":"https: //pbs.twimg.com/media/CjVxMTnXIAEC-1X.jpg","id":735618570382680065,"type":"photo","media_url":"http: //pbs.twimg.com/media/CjVxMTnXIAEC-1X.jpg","url":"https: //t.co/e1CgBFKOnn"}]},"in_reply_to_status_id_str":null,"in_reply_to_status_id":null,"created_at":"WedMay2523: 48: 29+00002016","in_reply_to_user_id_str":null,"source":"<ahref=\\"http://ifttt.com\\"rel=\\"nofollow\\">IFTTT<\\/a>","retweet_count":15,"retweeted":false,"geo":null,"in_reply_to_screen_name":null,"is_quote_status":false,"id_str":"735618570579742720","in_reply_to_user_id":null,"favorite_count":41,"id":735618570579742720,"text":"BabyBriar: FortMcMurraynewbornnamedafterCBCreporterhttps: //t.co/U21oprRuMShttps: //t.co/e1CgBFKOnn","place":null,"lang":"en","favorited":false,"possibly_sensitive":false,"coordinates":null,"truncated":false,"entities":{"urls":[{"display_url":"ift.tt/1TXsp2E","indices":[60,83],"expanded_url":"http: //ift.tt/1TXsp2E","url":"https: //t.co/U21oprRuMS"}],"hashtags":[],"media":[{"display_url":"pic.twitter.com/e1CgBFKOnn","indices":[84,107],"sizes":{"small":{"w":340,"h":191,"resize":"fit"},"large":{"w":460,"h":259,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":460,"h":259,"resize":"fit"}},"id_str":"735618570382680065","expanded_url":"http: //twitter.com/CBCNews/status/735618570579742720/photo/1","media_url_https":"https: //pbs.twimg.com/media/CjVxMTnXIAEC-1X.jpg","id":735618570382680065,"type":"photo","media_url":"http: //pbs.twimg.com/media/CjVxMTnXIAEC-1X.jpg","url":"https: //t.co/e1CgBFKOnn"}],"user_mentions":[],"symbols":[]},"contributors":null,"user":{"utc_offset":-14400,"friends_count":2313,"profile_image_url_https":"https: //pbs.twimg.com/profile_images/466664981673410560/886Az0vu_normal.jpeg","listed_count":12552,"profile_background_image_url":"http: //pbs.twimg.com/profile_background_images/167724092/cbcnews_twitter_pg-yellow.JPG","default_profile_image":false,"favourites_count":5340,"description":"CanadianbreakingnewsandanalysisfromCBCNews.ca,
+TVandradio.","created_at":"WedMay3005: 20: 39+00002007","is_translator":false,"profile_background_image_url_https":"https: //pbs.twimg.com/profile_background_images/167724092/cbcnews_twitter_pg-yellow.JPG","protected":false,"screen_name":"CBCNews","id_str":"6433472","profile_link_color":"FF0000","is_translation_enabled":false,"id":6433472,"geo_enabled":true,"profile_background_color":"000000","lang":"en","has_extended_profile":false,"profile_sidebar_border_color":"F2E195","profile_text_color":"0C3E53","verified":true,"profile_image_url":"http: //pbs.twimg.com/profile_images/466664981673410560/886Az0vu_normal.jpeg","time_zone":"EasternTime(US&Canada)","url":"http: //t.co/ZLZObOnET1","contributors_enabled":false,"profile_background_tile":false,"profile_banner_url":"https: //pbs.twimg.com/profile_banners/6433472/1400096610","entities":{"description":{"urls":[]},"url":{"urls":[{"display_url":"cbc.ca/news/","indices":[0,22],"expanded_url":"http: //www.cbc.ca/news/","url":"http: //t.co/ZLZObOnET1"}]}},"statuses_count":150293,"follow_request_sent":false,"followers_count":1781576,"profile_use_background_image":true,"default_profile":false,"following":true,"name":"CBCNews","location":"Canada","profile_sidebar_fill_color":"FFF7CC","notifications":false}}",
+{
+	"possibly_sensitive_appealable": false,
+	"extended_entities": {
+		"media": [{
+			"display_url": "pic.twitter.com/GKdeGbxSmh",
+			"indices": [104,
+			127],
+			"sizes": {
+				"small": {
+					"w": 340,
+					"h": 170,
+					"resize": "fit"
+				},
+				"large": {
+					"w": 1024,
+					"h": 512,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"medium": {
+					"w": 600,
+					"h": 300,
+					"resize": "fit"
+				}
+			},
+			"id_str": "735620190180921344",
+			"expanded_url": "http://twitter.com/SAI/status/735620190386458628/photo/1",
+			"media_url_https": "https://pbs.twimg.com/media/CjVyql1W0AACMPT.jpg",
+			"id": 735620190180921344,
+			"type": "photo",
+			"media_url": "http://pbs.twimg.com/media/CjVyql1W0AACMPT.jpg",
+			"url": "https://t.co/GKdeGbxSmh"
+		}]
+	},
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_status_id": null,
+	"created_at": "Wed May 25 23:54:55 +0000 2016",
+	"in_reply_to_user_id_str": null,
+	"source": "<a href=\\"http: //www.businessinsider.com\\" rel=\\"nofollow\\">Business Insider<\\/a>",
+	"retweet_count": 4,
+	"retweeted": false,
+	"geo": null,
+	"in_reply_to_screen_name": null,
+	"is_quote_status": false,
+	"id_str": "735620190386458628",
+	"in_reply_to_user_id": null,
+	"favorite_count": 2,
+	"id": 735620190386458628,
+	"text": "There's a new Toyota Prius \\u2014 and no one should be surprised by its best feature https://t.co/Vu7sBtheFH https://t.co/GKdeGbxSmh",
+	"place": null,
+	"lang": "en",
+	"favorited": false,
+	"possibly_sensitive": false,
+	"coordinates": null,
+	"truncated": false,
+	"entities": {
+		"urls": [{
+			"display_url": "read.bi/1Z0X96K",
+			"indices": [80,
+			103],
+			"expanded_url": "http://read.bi/1Z0X96K",
+			"url": "https://t.co/Vu7sBtheFH"
+		}],
+		"hashtags": [],
+		"media": [{
+			"display_url": "pic.twitter.com/GKdeGbxSmh",
+			"indices": [104,
+			127],
+			"sizes": {
+				"small": {
+					"w": 340,
+					"h": 170,
+					"resize": "fit"
+				},
+				"large": {
+					"w": 1024,
+					"h": 512,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"medium": {
+					"w": 600,
+					"h": 300,
+					"resize": "fit"
+				}
+			},
+			"id_str": "735620190180921344",
+			"expanded_url": "http://twitter.com/SAI/status/735620190386458628/photo/1",
+			"media_url_https": "https://pbs.twimg.com/media/CjVyql1W0AACMPT.jpg",
+			"id": 735620190180921344,
+			"type": "photo",
+			"media_url": "http://pbs.twimg.com/media/CjVyql1W0AACMPT.jpg",
+			"url": "https://t.co/GKdeGbxSmh"
+		}],
+		"user_mentions": [],
+		"symbols": []
+	},
+	"contributors": null,
+	"user": {
+		"utc_offset": -14400,
+		"friends_count": 64,
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/573908838190968833/LbVrX0tp_normal.png",
+		"listed_count": 14820,
+		"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"default_profile_image": false,
+		"favourites_count": 30,
+		"description": "The latest tech news from @BusinessInsider.",
+		"created_at": "Wed Sep 12 21:09:11 +0000 2007",
+		"is_translator": false,
+		"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"protected": false,
+		"screen_name": "SAI",
+		"id_str": "8841372",
+		"profile_link_color": "185F7C",
+		"is_translation_enabled": false,
+		"id": 8841372,
+		"geo_enabled": true,
+		"profile_background_color": "000000",
+		"lang": "en",
+		"has_extended_profile": false,
+		"profile_sidebar_border_color": "000000",
+		"profile_text_color": "000000",
+		"verified": true,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/573908838190968833/LbVrX0tp_normal.png",
+		"time_zone": "Eastern Time (US & Canada)",
+		"url": "http://t.co/WTYREgWa73",
+		"contributors_enabled": false,
+		"profile_background_tile": false,
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/8841372/1456623106",
+		"entities": {
+			"description": {
+				"urls": []
+			},
+			"url": {
+				"urls": [{
+					"display_url": "businessinsider.com/sai",
+					"indices": [0,
+					22],
+					"expanded_url": "http://www.businessinsider.com/sai",
+					"url": "http://t.co/WTYREgWa73"
+				}]
+			}
+		},
+		"statuses_count": 111984,
+		"follow_request_sent": false,
+		"followers_count": 1368581,
+		"profile_use_background_image": false,
+		"default_profile": false,
+		"following": true,
+		"name": "BI Tech",
+		"location": "New York, NY",
+		"profile_sidebar_fill_color": "000000",
+		"notifications": false
+	}
+}",
+{"possibly_sensitive_appealable":false,"extended_entities":{"media":[{"display_url":"pic.twitter.com/84lBi7Ffd5","indices":[88,111],"sizes":{"small":{"w":340,"h":191,"resize":"fit"},"large":{"w":620,"h":349,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":600,"h":338,"resize":"fit"}},"id_str":"735621584338178048","expanded_url":"http: //twitter.com/CBCNews/status/735621584577302529/photo/1","media_url_https":"https: //pbs.twimg.com/media/CjVz7veWUAA-pkN.jpg","id":735621584338178048,"type":"photo","media_url":"http: //pbs.twimg.com/media/CjVz7veWUAA-pkN.jpg","url":"https: //t.co/84lBi7Ffd5"}]},"in_reply_to_status_id_str":null,"in_reply_to_status_id":null,"created_at":"ThuMay2600: 00: 27+00002016","in_reply_to_user_id_str":null,"source":"<ahref=\\"http://bufferapp.com\\"rel=\\"nofollow\\">Buffer<\\/a>","retweet_count":7,"retweeted":false,"geo":null,"in_reply_to_screen_name":null,"is_quote_status":false,"id_str":"735621584577302529","in_reply_to_user_id":null,"favorite_count":7,"id":735621584577302529,"text":"Achtung,
+Angie: AlookatMerkel'sdramaticreversaloffortunehttps: //t.co/yXDYQwPJf8https: //t.co/84lBi7Ffd5","place":null,"lang":"en","favorited":false,"possibly_sensitive":false,"coordinates":null,"truncated":false,"entities":{"urls":[{"display_url":"cbc.ca/1.3597927","indices":[64,87],"expanded_url":"http: //www.cbc.ca/1.3597927","url":"https: //t.co/yXDYQwPJf8"}],"hashtags":[],"media":[{"display_url":"pic.twitter.com/84lBi7Ffd5","indices":[88,111],"sizes":{"small":{"w":340,"h":191,"resize":"fit"},"large":{"w":620,"h":349,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":600,"h":338,"resize":"fit"}},"id_str":"735621584338178048","expanded_url":"http: //twitter.com/CBCNews/status/735621584577302529/photo/1","media_url_https":"https: //pbs.twimg.com/media/CjVz7veWUAA-pkN.jpg","id":735621584338178048,"type":"photo","media_url":"http: //pbs.twimg.com/media/CjVz7veWUAA-pkN.jpg","url":"https: //t.co/84lBi7Ffd5"}],"user_mentions":[],"symbols":[]},"contributors":null,"user":{"utc_offset":-14400,"friends_count":2313,"profile_image_url_https":"https: //pbs.twimg.com/profile_images/466664981673410560/886Az0vu_normal.jpeg","listed_count":12552,"profile_background_image_url":"http: //pbs.twimg.com/profile_background_images/167724092/cbcnews_twitter_pg-yellow.JPG","default_profile_image":false,"favourites_count":5340,"description":"CanadianbreakingnewsandanalysisfromCBCNews.ca,
+TVandradio.","created_at":"WedMay3005: 20: 39+00002007","is_translator":false,"profile_background_image_url_https":"https: //pbs.twimg.com/profile_background_images/167724092/cbcnews_twitter_pg-yellow.JPG","protected":false,"screen_name":"CBCNews","id_str":"6433472","profile_link_color":"FF0000","is_translation_enabled":false,"id":6433472,"geo_enabled":true,"profile_background_color":"000000","lang":"en","has_extended_profile":false,"profile_sidebar_border_color":"F2E195","profile_text_color":"0C3E53","verified":true,"profile_image_url":"http: //pbs.twimg.com/profile_images/466664981673410560/886Az0vu_normal.jpeg","time_zone":"EasternTime(US&Canada)","url":"http: //t.co/ZLZObOnET1","contributors_enabled":false,"profile_background_tile":false,"profile_banner_url":"https: //pbs.twimg.com/profile_banners/6433472/1400096610","entities":{"description":{"urls":[]},"url":{"urls":[{"display_url":"cbc.ca/news/","indices":[0,22],"expanded_url":"http: //www.cbc.ca/news/","url":"http: //t.co/ZLZObOnET1"}]}},"statuses_count":150293,"follow_request_sent":false,"followers_count":1781576,"profile_use_background_image":true,"default_profile":false,"following":true,"name":"CBCNews","location":"Canada","profile_sidebar_fill_color":"FFF7CC","notifications":false}}",
+{
+	"possibly_sensitive_appealable": false,
+	"extended_entities": {
+		"media": [{
+			"display_url": "pic.twitter.com/5rIwrUQeuM",
+			"source_user_id": 775956193,
+			"type": "photo",
+			"media_url": "http://pbs.twimg.com/media/CjVzfxcUoAAYGSP.jpg",
+			"source_status_id": 735621104958607360,
+			"url": "https://t.co/5rIwrUQeuM",
+			"indices": [58,
+			81],
+			"sizes": {
+				"small": {
+					"w": 340,
+					"h": 227,
+					"resize": "fit"
+				},
+				"large": {
+					"w": 1024,
+					"h": 682,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"medium": {
+					"w": 600,
+					"h": 400,
+					"resize": "fit"
+				}
+			},
+			"id_str": "735621103830212608",
+			"expanded_url": "http://twitter.com/indoblue82/status/735621104958607360/photo/1",
+			"source_status_id_str": "735621104958607360",
+			"media_url_https": "https://pbs.twimg.com/media/CjVzfxcUoAAYGSP.jpg",
+			"id": 735621103830212608,
+			"source_user_id_str": "775956193"
+		}]
+	},
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_status_id": null,
+	"created_at": "Thu May 26 00:03:09 +0000 2016",
+	"in_reply_to_user_id_str": null,
+	"source": "<a href=\\"http: //dlvr.it\\" rel=\\"nofollow\\">dlvr.it<\\/a>",
+	"retweet_count": 0,
+	"retweeted": false,
+	"geo": {
+		"coordinates": [44.6537582,
+		-63.6134827],
+		"type": "Point"
+	},
+	"in_reply_to_screen_name": null,
+	"is_quote_status": false,
+	"id_str": "735622265476284417",
+	"in_reply_to_user_id": null,
+	"favorite_count": 3,
+	"id": 735622265476284417,
+	"text": "Sun kissed, in Halifax, Nova Scotia #sunset Via @bretthfx https://t.co/5rIwrUQeuM",
+	"place": {
+		"country_code": "CA",
+		"country": "Canada",
+		"contained_within": [],
+		"full_name": "Halifax, Nova Scotia",
+		"bounding_box": {
+			"coordinates": [[[-64.237659,
+			43.366298],
+			[-59.385802,
+			43.366298],
+			[-59.385802,
+			45.27617],
+			[-64.237659,
+			45.27617]]],
+			"type": "Polygon"
+		},
+		"place_type": "city",
+		"name": "Halifax",
+		"attributes": {
+			
+		},
+		"id": "5d058f2e9fe1516c",
+		"url": "https://api.twitter.com/1.1/geo/id/5d058f2e9fe1516c.json"
+	},
+	"lang": "en",
+	"favorited": false,
+	"possibly_sensitive": false,
+	"coordinates": {
+		"coordinates": [-63.6134827,
+		44.6537582],
+		"type": "Point"
+	},
+	"truncated": false,
+	"entities": {
+		"urls": [],
+		"hashtags": [{
+			"indices": [36,
+			43],
+			"text": "sunset"
+		}],
+		"media": [{
+			"display_url": "pic.twitter.com/5rIwrUQeuM",
+			"source_user_id": 775956193,
+			"type": "photo",
+			"media_url": "http://pbs.twimg.com/media/CjVzfxcUoAAYGSP.jpg",
+			"source_status_id": 735621104958607360,
+			"url": "https://t.co/5rIwrUQeuM",
+			"indices": [58,
+			81],
+			"sizes": {
+				"small": {
+					"w": 340,
+					"h": 227,
+					"resize": "fit"
+				},
+				"large": {
+					"w": 1024,
+					"h": 682,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"medium": {
+					"w": 600,
+					"h": 400,
+					"resize": "fit"
+				}
+			},
+			"id_str": "735621103830212608",
+			"expanded_url": "http://twitter.com/indoblue82/status/735621104958607360/photo/1",
+			"source_status_id_str": "735621104958607360",
+			"media_url_https": "https://pbs.twimg.com/media/CjVzfxcUoAAYGSP.jpg",
+			"id": 735621103830212608,
+			"source_user_id_str": "775956193"
+		}],
+		"user_mentions": [{
+			"indices": [48,
+			57],
+			"screen_name": "bretthfx",
+			"id_str": "20917190",
+			"name": "Brett Locke",
+			"id": 20917190
+		}],
+		"symbols": []
+	},
+	"contributors": null,
+	"user": {
+		"utc_offset": -10800,
+		"friends_count": 30981,
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/693378590960779265/JYO9QRaF_normal.png",
+		"listed_count": 956,
+		"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/66355533/Untitled-1.png",
+		"default_profile_image": false,
+		"favourites_count": 133,
+		"description": "Often imitated, never duplicated. Breaking Halifax Nova Scotia news, weather and lifestyle-type stuff. Hello.",
+		"created_at": "Tue Sep 16 10:02:05 +0000 2008",
+		"is_translator": false,
+		"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/66355533/Untitled-1.png",
+		"protected": false,
+		"screen_name": "haligonia",
+		"id_str": "16308920",
+		"profile_link_color": "7E827D",
+		"is_translation_enabled": false,
+		"id": 16308920,
+		"geo_enabled": true,
+		"profile_background_color": "FFFFFF",
+		"lang": "en",
+		"has_extended_profile": false,
+		"profile_sidebar_border_color": "000000",
+		"profile_text_color": "383838",
+		"verified": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/693378590960779265/JYO9QRaF_normal.png",
+		"time_zone": "Atlantic Time (Canada)",
+		"url": "http://t.co/3K7Lz3Hwf5",
+		"contributors_enabled": false,
+		"profile_background_tile": false,
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/16308920/1460990915",
+		"entities": {
+			"description": {
+				"urls": []
+			},
+			"url": {
+				"urls": [{
+					"display_url": "haligonia.ca",
+					"indices": [0,
+					22],
+					"expanded_url": "http://www.haligonia.ca",
+					"url": "http://t.co/3K7Lz3Hwf5"
+				}]
+			}
+		},
+		"statuses_count": 65231,
+		"follow_request_sent": false,
+		"followers_count": 96535,
+		"profile_use_background_image": true,
+		"default_profile": false,
+		"following": true,
+		"name": "haligonia: hfx news",
+		"location": "Halifax Nova Scotia Canada",
+		"profile_sidebar_fill_color": "D0CDCD",
+		"notifications": false
+	}
+}",
+{
+	"possibly_sensitive_appealable": false,
+	"extended_entities": {
+		"media": [{
+			"display_url": "pic.twitter.com/raRUGsAwxI",
+			"indices": [117,
+			140],
+			"sizes": {
+				"small": {
+					"w": 340,
+					"h": 170,
+					"resize": "fit"
+				},
+				"large": {
+					"w": 1024,
+					"h": 512,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"medium": {
+					"w": 600,
+					"h": 300,
+					"resize": "fit"
+				}
+			},
+			"id_str": "735622661007630336",
+			"expanded_url": "http: //twitter.com/SAI/status/735622661724884993/photo/1",
+			"media_url_https": "https: //pbs.twimg.com/media/CjV06aYWYAA5jX2.jpg",
+			"id": 735622661007630336,
+			"type": "photo",
+			"media_url": "http: //pbs.twimg.com/media/CjV06aYWYAA5jX2.jpg",
+			"url": "https: //t.co/raRUGsAwxI"
+		}]
+	},
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_status_id": null,
+	"created_at": "ThuMay2600: 04: 44+00002016",
+	"in_reply_to_user_id_str": null,
+	"source": "<ahref=\\"http: //www.businessinsider.com\\"rel=\\"nofollow\\">BusinessInsider<\\/a>",
+	"retweet_count": 1,
+	"retweeted": false,
+	"geo": null,
+	"in_reply_to_screen_name": null,
+	"is_quote_status": false,
+	"id_str": "735622661724884993",
+	"in_reply_to_user_id": null,
+	"favorite_count": 2,
+	"id": 735622661724884993,
+	"text": "InsiderstellusthatDomo,
+the$2billionstartupthatcameoutofnowhere,
+isfullofhypehttps: //t.co/bwdJi4Msy1https: //t.co/raRUGsAwxI",
+	"place": null,
+	"lang": "en",
+	"favorited": false,
+	"possibly_sensitive": false,
+	"coordinates": null,
+	"truncated": false,
+	"entities": {
+		"urls": [{
+			"display_url": "read.bi/1TFbPat",
+			"indices": [93,
+			116],
+			"expanded_url": "http: //read.bi/1TFbPat",
+			"url": "https: //t.co/bwdJi4Msy1"
+		}],
+		"hashtags": [],
+		"media": [{
+			"display_url": "pic.twitter.com/raRUGsAwxI",
+			"indices": [117,
+			140],
+			"sizes": {
+				"small": {
+					"w": 340,
+					"h": 170,
+					"resize": "fit"
+				},
+				"large": {
+					"w": 1024,
+					"h": 512,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"medium": {
+					"w": 600,
+					"h": 300,
+					"resize": "fit"
+				}
+			},
+			"id_str": "735622661007630336",
+			"expanded_url": "http: //twitter.com/SAI/status/735622661724884993/photo/1",
+			"media_url_https": "https: //pbs.twimg.com/media/CjV06aYWYAA5jX2.jpg",
+			"id": 735622661007630336,
+			"type": "photo",
+			"media_url": "http: //pbs.twimg.com/media/CjV06aYWYAA5jX2.jpg",
+			"url": "https: //t.co/raRUGsAwxI"
+		}],
+		"user_mentions": [],
+		"symbols": []
+	},
+	"contributors": null,
+	"user": {
+		"utc_offset": -14400,
+		"friends_count": 64,
+		"profile_image_url_https": "https: //pbs.twimg.com/profile_images/573908838190968833/LbVrX0tp_normal.png",
+		"listed_count": 14820,
+		"profile_background_image_url": "http: //abs.twimg.com/images/themes/theme1/bg.png",
+		"default_profile_image": false,
+		"favourites_count": 30,
+		"description": "Thelatesttechnewsfrom@BusinessInsider.",
+		"created_at": "WedSep1221: 09: 11+00002007",
+		"is_translator": false,
+		"profile_background_image_url_https": "https: //abs.twimg.com/images/themes/theme1/bg.png",
+		"protected": false,
+		"screen_name": "SAI",
+		"id_str": "8841372",
+		"profile_link_color": "185F7C",
+		"is_translation_enabled": false,
+		"id": 8841372,
+		"geo_enabled": true,
+		"profile_background_color": "000000",
+		"lang": "en",
+		"has_extended_profile": false,
+		"profile_sidebar_border_color": "000000",
+		"profile_text_color": "000000",
+		"verified": true,
+		"profile_image_url": "http: //pbs.twimg.com/profile_images/573908838190968833/LbVrX0tp_normal.png",
+		"time_zone": "EasternTime(US&Canada)",
+		"url": "http: //t.co/WTYREgWa73",
+		"contributors_enabled": false,
+		"profile_background_tile": false,
+		"profile_banner_url": "https: //pbs.twimg.com/profile_banners/8841372/1456623106",
+		"entities": {
+			"description": {
+				"urls": []
+			},
+			"url": {
+				"urls": [{
+					"display_url": "businessinsider.com/sai",
+					"indices": [0,
+					22],
+					"expanded_url": "http: //www.businessinsider.com/sai",
+					"url": "http: //t.co/WTYREgWa73"
+				}]
+			}
+		},
+		"statuses_count": 111984,
+		"follow_request_sent": false,
+		"followers_count": 1368581,
+		"profile_use_background_image": false,
+		"default_profile": false,
+		"following": true,
+		"name": "BITech",
+		"location": "NewYork,
+NY",
+		"profile_sidebar_fill_color": "000000",
+		"notifications": false
+	}
+}"]

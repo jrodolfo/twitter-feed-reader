@@ -1,0 +1,352 @@
+{
+	"possibly_sensitive_appealable": false,
+	"extended_entities": {
+		"media": [{
+			"display_url": "pic.twitter.com/7ylLQe9wc0",
+			"source_user_id": 16817799,
+			"type": "photo",
+			"media_url": "http://pbs.twimg.com/media/CjUdokVUoAAgIfn.jpg",
+			"source_status_id": 735526703808847872,
+			"url": "https://t.co/7ylLQe9wc0",
+			"indices": [139,
+			140],
+			"sizes": {
+				"small": {
+					"w": 340,
+					"h": 192,
+					"resize": "fit"
+				},
+				"large": {
+					"w": 1024,
+					"h": 577,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"medium": {
+					"w": 600,
+					"h": 338,
+					"resize": "fit"
+				}
+			},
+			"id_str": "735526696930025472",
+			"expanded_url": "http://twitter.com/laurenonizzle/status/735526703808847872/photo/1",
+			"source_status_id_str": "735526703808847872",
+			"media_url_https": "https://pbs.twimg.com/media/CjUdokVUoAAgIfn.jpg",
+			"id": 735526696930025472,
+			"source_user_id_str": "16817799"
+		}]
+	},
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_status_id": null,
+	"created_at": "Wed May 25 23:16:02 +0000 2016",
+	"in_reply_to_user_id_str": null,
+	"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+	"retweeted_status": {
+		"possibly_sensitive_appealable": false,
+		"extended_entities": {
+			"media": [{
+				"display_url": "pic.twitter.com/7ylLQe9wc0",
+				"indices": [116,
+				139],
+				"sizes": {
+					"small": {
+						"w": 340,
+						"h": 192,
+						"resize": "fit"
+					},
+					"large": {
+						"w": 1024,
+						"h": 577,
+						"resize": "fit"
+					},
+					"thumb": {
+						"w": 150,
+						"h": 150,
+						"resize": "crop"
+					},
+					"medium": {
+						"w": 600,
+						"h": 338,
+						"resize": "fit"
+					}
+				},
+				"id_str": "735526696930025472",
+				"expanded_url": "http://twitter.com/laurenonizzle/status/735526703808847872/photo/1",
+				"media_url_https": "https://pbs.twimg.com/media/CjUdokVUoAAgIfn.jpg",
+				"id": 735526696930025472,
+				"type": "photo",
+				"media_url": "http://pbs.twimg.com/media/CjUdokVUoAAgIfn.jpg",
+				"url": "https://t.co/7ylLQe9wc0"
+			}]
+		},
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_status_id": null,
+		"created_at": "Wed May 25 17:43:26 +0000 2016",
+		"in_reply_to_user_id_str": null,
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+		"retweet_count": 5,
+		"retweeted": false,
+		"geo": null,
+		"in_reply_to_screen_name": null,
+		"is_quote_status": false,
+		"id_str": "735526703808847872",
+		"in_reply_to_user_id": null,
+		"favorite_count": 13,
+		"id": 735526703808847872,
+		"text": "HAPPY BEYONCÉ DAY, Toronto! Follow @CBCToronto on Snapchat to see what I see at #TheFormationWorldTour tonight 👻💃🏼🐝 https://t.co/7ylLQe9wc0",
+		"place": null,
+		"lang": "en",
+		"favorited": false,
+		"possibly_sensitive": false,
+		"coordinates": null,
+		"truncated": false,
+		"entities": {
+			"urls": [],
+			"hashtags": [{
+				"indices": [80,
+				102],
+				"text": "TheFormationWorldTour"
+			}],
+			"media": [{
+				"display_url": "pic.twitter.com/7ylLQe9wc0",
+				"indices": [116,
+				139],
+				"sizes": {
+					"small": {
+						"w": 340,
+						"h": 192,
+						"resize": "fit"
+					},
+					"large": {
+						"w": 1024,
+						"h": 577,
+						"resize": "fit"
+					},
+					"thumb": {
+						"w": 150,
+						"h": 150,
+						"resize": "crop"
+					},
+					"medium": {
+						"w": 600,
+						"h": 338,
+						"resize": "fit"
+					}
+				},
+				"id_str": "735526696930025472",
+				"expanded_url": "http://twitter.com/laurenonizzle/status/735526703808847872/photo/1",
+				"media_url_https": "https://pbs.twimg.com/media/CjUdokVUoAAgIfn.jpg",
+				"id": 735526696930025472,
+				"type": "photo",
+				"media_url": "http://pbs.twimg.com/media/CjUdokVUoAAgIfn.jpg",
+				"url": "https://t.co/7ylLQe9wc0"
+			}],
+			"user_mentions": [{
+				"indices": [35,
+				46],
+				"screen_name": "CBCToronto",
+				"id_str": "19000033",
+				"name": "CBC Toronto",
+				"id": 19000033
+			}],
+			"symbols": []
+		},
+		"contributors": null,
+		"user": {
+			"utc_offset": -14400,
+			"friends_count": 8386,
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/438774827197804545/MiwQpkDM_normal.jpeg",
+			"listed_count": 1031,
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5620950/hotdog.png",
+			"default_profile_image": false,
+			"favourites_count": 14353,
+			"description": "Journalist @CBCNews, TV head & OG Internet person. I like comedy, computers, clothes and alliteration. My tweets are all your mom's. [lauren.oneil@cbc.ca]",
+			"created_at": "Fri Oct 17 01:24:00 +0000 2008",
+			"is_translator": false,
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5620950/hotdog.png",
+			"protected": false,
+			"screen_name": "laurenonizzle",
+			"id_str": "16817799",
+			"profile_link_color": "449FFD",
+			"is_translation_enabled": false,
+			"id": 16817799,
+			"geo_enabled": true,
+			"profile_background_color": "FF1F81",
+			"lang": "en",
+			"has_extended_profile": false,
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_text_color": "1FB5FF",
+			"verified": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/438774827197804545/MiwQpkDM_normal.jpeg",
+			"time_zone": "Eastern Time (US & Canada)",
+			"url": "https://t.co/V9Qz1V5Vc8",
+			"contributors_enabled": false,
+			"profile_background_tile": false,
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16817799/1398233444",
+			"entities": {
+				"description": {
+					"urls": []
+				},
+				"url": {
+					"urls": [{
+						"display_url": "cbc.ca/news/trending",
+						"indices": [0,
+						23],
+						"expanded_url": "http://www.cbc.ca/news/trending",
+						"url": "https://t.co/V9Qz1V5Vc8"
+					}]
+				}
+			},
+			"statuses_count": 89636,
+			"follow_request_sent": false,
+			"followers_count": 70818,
+			"profile_use_background_image": true,
+			"default_profile": false,
+			"following": false,
+			"name": "Lauren O'Neil",
+			"location": "Toronto",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"notifications": false
+		}
+	},
+	"retweet_count": 5,
+	"retweeted": false,
+	"geo": null,
+	"in_reply_to_screen_name": null,
+	"is_quote_status": false,
+	"id_str": "735610406790647810",
+	"in_reply_to_user_id": null,
+	"favorite_count": 0,
+	"id": 735610406790647810,
+	"text": "RT @laurenonizzle: HAPPY BEYONCÉ DAY, Toronto! Follow @CBCToronto on Snapchat to see what I see at #TheFormationWorldTour tonight 👻💃🏼🐝 http\u2026",
+	"place": null,
+	"lang": "en",
+	"favorited": false,
+	"possibly_sensitive": false,
+	"coordinates": null,
+	"truncated": false,
+	"entities": {
+		"urls": [],
+		"hashtags": [{
+			"indices": [99,
+			121],
+			"text": "TheFormationWorldTour"
+		}],
+		"media": [{
+			"display_url": "pic.twitter.com/7ylLQe9wc0",
+			"source_user_id": 16817799,
+			"type": "photo",
+			"media_url": "http://pbs.twimg.com/media/CjUdokVUoAAgIfn.jpg",
+			"source_status_id": 735526703808847872,
+			"url": "https://t.co/7ylLQe9wc0",
+			"indices": [139,
+			140],
+			"sizes": {
+				"small": {
+					"w": 340,
+					"h": 192,
+					"resize": "fit"
+				},
+				"large": {
+					"w": 1024,
+					"h": 577,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"medium": {
+					"w": 600,
+					"h": 338,
+					"resize": "fit"
+				}
+			},
+			"id_str": "735526696930025472",
+			"expanded_url": "http://twitter.com/laurenonizzle/status/735526703808847872/photo/1",
+			"source_status_id_str": "735526703808847872",
+			"media_url_https": "https://pbs.twimg.com/media/CjUdokVUoAAgIfn.jpg",
+			"id": 735526696930025472,
+			"source_user_id_str": "16817799"
+		}],
+		"user_mentions": [{
+			"indices": [3,
+			17],
+			"screen_name": "laurenonizzle",
+			"id_str": "16817799",
+			"name": "Lauren O'Neil",
+			"id": 16817799
+		},
+		{
+			"indices": [54,
+			65],
+			"screen_name": "CBCToronto",
+			"id_str": "19000033",
+			"name": "CBC Toronto",
+			"id": 19000033
+		}],
+		"symbols": []
+	},
+	"contributors": null,
+	"user": {
+		"utc_offset": -14400,
+		"friends_count": 2313,
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/466664981673410560/886Az0vu_normal.jpeg",
+		"listed_count": 12552,
+		"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/167724092/cbcnews_twitter_pg-yellow.JPG",
+		"default_profile_image": false,
+		"favourites_count": 5340,
+		"description": "Canadian breaking news and analysis from CBCNews.ca, TV and radio.",
+		"created_at": "Wed May 30 05:20:39 +0000 2007",
+		"is_translator": false,
+		"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/167724092/cbcnews_twitter_pg-yellow.JPG",
+		"protected": false,
+		"screen_name": "CBCNews",
+		"id_str": "6433472",
+		"profile_link_color": "FF0000",
+		"is_translation_enabled": false,
+		"id": 6433472,
+		"geo_enabled": true,
+		"profile_background_color": "000000",
+		"lang": "en",
+		"has_extended_profile": false,
+		"profile_sidebar_border_color": "F2E195",
+		"profile_text_color": "0C3E53",
+		"verified": true,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/466664981673410560/886Az0vu_normal.jpeg",
+		"time_zone": "Eastern Time (US & Canada)",
+		"url": "http://t.co/ZLZObOnET1",
+		"contributors_enabled": false,
+		"profile_background_tile": false,
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/6433472/1400096610",
+		"entities": {
+			"description": {
+				"urls": []
+			},
+			"url": {
+				"urls": [{
+					"display_url": "cbc.ca/news/",
+					"indices": [0,
+					22],
+					"expanded_url": "http://www.cbc.ca/news/",
+					"url": "http://t.co/ZLZObOnET1"
+				}]
+			}
+		},
+		"statuses_count": 150293,
+		"follow_request_sent": false,
+		"followers_count": 1781576,
+		"profile_use_background_image": true,
+		"default_profile": false,
+		"following": true,
+		"name": "CBC News",
+		"location": "Canada",
+		"profile_sidebar_fill_color": "FFF7CC",
+		"notifications": false
+	}
+}
