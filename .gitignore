@@ -8,3 +8,4 @@ gen
 .gitignore
 .idea/
 twitter-feed-reader.iml
+target/
