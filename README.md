@@ -1,7 +1,7 @@
-# twitter-feed-reader
-Simple Java web app that implements a Twitter feed reader
+# Twitter Feed Reader
+Simple Java web app that implements a Twitter Feed Reader
 
-A. How to run?
+A. How to run it?
 
 Open a command prompt and type:
 
@@ -23,7 +23,7 @@ This is a simple Java web app that implements a Twitter feed reader based on:
 3) There should also be an input field where the user can type to filter the current list of tweets 
 by whether the input string is present anywhere in the content of a tweet. ==>> This will be implemented soon.
 
-4) The following details is displayed in a pleasing (the "pleasing" part will be implemented soon) format for each tweet:
+4) The following details is displayed in a pleasing format for each tweet:
 
 	­ user name
 	­ user screen name (@screen_name)
@@ -33,7 +33,7 @@ by whether the input string is present anywhere in the content of a tweet. ==>> 
 
 5) The app implements a simple server to handle authentication and interactions with Twitter’s API.
 
-6) Front­end Restrictions
+6) Front end Restrictions
 
 	The following 3rd party libraries are allowed:
 
@@ -44,7 +44,7 @@ by whether the input string is present anywhere in the content of a tweet. ==>> 
 		
 	The rest is my supplied code
 
-7) Back­end Restrictions
+7) Back end Restrictions
 
 	The server should be runnable as a standalone process.
 
