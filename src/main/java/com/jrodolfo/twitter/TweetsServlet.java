@@ -7,6 +7,9 @@ import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
 import javax.servlet.http.HttpServlet;
 import java.io.IOException;
+import java.time.LocalTime;
+import java.time.ZonedDateTime;
+import java.time.temporal.ChronoUnit;
 
 /**
  * Created by Rod on 24-May-2016.
@@ -22,10 +25,10 @@ public class TweetsServlet extends HttpServlet {
 
     @Override
     public void service(ServletRequest req, ServletResponse res) throws ServletException, IOException {
-        System.out.println("\nRunning TweetsServlet...");
-        String tweetsInJsonFormat = twitterFeed.getTweetsInJsonFormat();
+        LocalTime now = ZonedDateTime.now().toLocalTime().truncatedTo(ChronoUnit.SECONDS);
+        System.out.println("TweetsServlet started at " + now);
         res.setContentType("application/json");
         res.setCharacterEncoding("UTF-8");
-        res.getWriter().println(tweetsInJsonFormat);
+        res.getWriter().println(twitterFeed.getTweetsInJsonFormat());
     }
 }

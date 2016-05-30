@@ -1,14 +1,71 @@
-#first-pane,
-#second-pane {
-  width: 46%;
-  float: left;
-  background: #eee;
-  margin: 0 1%;
-  padding: 10px 1%;
+html {
+  background: #fff url(../images/site/html.jpg) repeat;
 }
 
-h1,
-#links-pane {
-  margin: 0 1%;
-  padding: 10px 1%;
+body {
+  font-family: Georgia, serif;
+  margin: 0;
+}
+
+footer {
+  font-family: Georgia, serif;
+  background-color: #ced9ff;
+  padding: 10px;
+  font-size: 0.75rem;
+  text-align: center;
+}
+
+.site {
+  background-color: #ced9ff;
+  border: 1px solid #eee;
+  width: 960px;
+  min-height: 630px;
+  margin: 20px auto 0;
+  border-radius: 20px;
+}
+
+.logo {
+  padding: 8px;
+  font-family: Georgia, serif;
+  text-align: center;
+}
+
+.image {
+  padding: 7px;
+}
+
+.tweetListItem {
+  display: inline-block;
+  margin: 0 10px;
+  list-style-type: none;
+  border-radius: 10px;
+}
+
+.tweetInfo {
+  list-style-type: none;
+  text-align: left;
+  margin-bottom: 5px;
+}
+
+#comment {
+  text-align: center;
+  color: #000000;
+  font-size: 22px;
+  padding: 5px;
+  margin: 10px auto 0;
+  width: 600px;
+}
+
+#allTweets {
+  padding: 20px;
+  margin: 0 auto;
+  text-align: center;
+  width: 750px;
+  background-color: #E0E0E0;
+  border: 1px solid #808bcc;
+  border-radius: 15px;
+}
+
+.bgColorImage {
+  background-color: #CEBDBD;
 }

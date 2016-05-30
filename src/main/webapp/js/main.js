@@ -3,22 +3,6 @@
     // This code is based on the code took from Chapter 7 (REST and Storage)
     // from the book: Backbone.js Cookbook, by Mirgorod, Vadim. Packt Publishing.
 
-        // Extend Backbone Model to support MongoDB Extended JSON.
-    Backbone.Model.prototype.parse = function (resp, options) {
-        if (_.isObject(resp._id)) {
-            resp.id = resp._id.$oid;
-            delete resp._id;
-        }
-        return resp;
-    }
-    Backbone.Model.prototype.toJSON = function () {
-        var attrs = _.omit(this.attributes, 'id');
-        if (!_.isUndefined(this.id)) {
-            attrs._id = {$oid: this.id};
-        }
-        return attrs;
-    }
-
     // Define configuration.
     var appConfig = {
         baseURL: 'http://localhost:8080/tweets'
@@ -79,22 +63,49 @@
         },
     });
 
+    var TweetTemplate = {
+        getTemplate: function () {
+            var userProfileImage = '<img src="<%= userProfileImage %>" class="image" />';
+            var ulOpen = '<ul>';
+            var ulClose = "</ul>";
+            var liOpen =  '<li class="tweetInfo">';
+            var liClose = '</li>';
+            var userName = '<a target="_blank" href="https://twitter.com/<%= userScreenName %>"> <%= userName %></a>';
+            var userScreenName = '@<%= userScreenName %>';
+            var createdAt = '<%= createdAtString %>';
+            var header = liOpen + userName + " " + userScreenName + " - " + createdAt + liClose;
+            var content = liOpen + '<%= tweetContent %>' + liClose;
+            var retweetCount = liOpen + 'Retweet: <%= retweetCount %>' + liClose;
+            return userProfileImage + ulOpen + header + content + retweetCount + ulClose;
+        }
+    }
 
     // Define new view to render a model.
     var TweetView = Backbone.View.extend({
 
-        // Define element tag name.
-        tagName: 'li',
-
-        // Define template.
-        template: _.template('<b>User name:</b> <%= userName %> <br /> <b>User Screen Name:</b> <%= userScreenName %><br /><b>User profile image URL:</b> <%= userProfileImage %><br /><b>Content:</b> <%= tweetContent %><br /><b>Retweet count:</b> <%= retweetCount %><br /><b>Created at:</b> <%= createdAtString %><br />'),
+        tagName: "article",
+        className: "tweetListItem",
+        template: _.template(TweetTemplate.getTemplate()),
 
         // Render view.
         render: function () {
             $(this.el).html(this.template(this.model.toJSON()));
-
             return this;
         },
+
+        events: {
+            'mouseover': 'addBgColor',
+            'mouseout': 'removeBgColor'
+        },
+
+        addBgColor: function() {
+            this.$el.addClass("bgColorImage");
+        },
+
+        removeBgColor: function() {
+            this.$el.removeClass("bgColorImage");
+        },
+
 
         // Bind callback to the model events.
         initialize: function () {
@@ -108,7 +119,7 @@
     var TweetListView = Backbone.View.extend({
 
         // Define element tag name.
-        tagName: 'ol type="1"',
+        tagName: "section",
 
         // Render view.
         render: function () {
@@ -149,8 +160,7 @@
         collection = new TweetCollection();
 
         // Create whole page view instance and render it
-        $('body').append('<h3>Tweets</h3>')
-        $('body').append(new TweetListView({
+        $('#allTweets').append(new TweetListView({
             collection: collection,
         }).render().el);
 

@@ -9,7 +9,7 @@ public class TweetCollection {
 
     Map<Long, Tweet> map = new TreeMap<>();
 
-    public static String toJson(Map<Long, Tweet> map) {
+    public String toJson(Map<Long, Tweet> map) {
         int numberOfElements = map.size();
         if (numberOfElements == 0) return "[]";
         StringBuilder stringBuilder = new StringBuilder();
@@ -26,7 +26,7 @@ public class TweetCollection {
         return stringBuilder.toString();
     }
 
-    public static String toJson(ArrayList<Tweet> list) {
+    public String toJson(ArrayList<Tweet> list) {
         int numberOfElements = list.size();
         if (numberOfElements == 0) return "[]";
         StringBuilder stringBuilder = new StringBuilder();
@@ -43,7 +43,7 @@ public class TweetCollection {
         return stringBuilder.toString();
     }
 
-    public static ArrayList<Tweet> getListFromMap(Map<Long, Tweet> map) {
+    public ArrayList<Tweet> getListFromMap(Map<Long, Tweet> map) {
         ArrayList<Tweet> list = new ArrayList<>();
         for (Map.Entry<Long, Tweet> entry : map.entrySet()) {
             list.add(entry.getValue());
@@ -52,7 +52,7 @@ public class TweetCollection {
     }
 
 
-    public static ArrayList<Tweet> reverseList(ArrayList<Tweet> list) {
+    public ArrayList<Tweet> reverseList(ArrayList<Tweet> list) {
         for(int i = 0, j = list.size() - 1; i < j; i++) {
             list.add(i, list.remove(j));
         }
@@ -102,7 +102,4 @@ public class TweetCollection {
         return map;
     }
 
-    public void setMap(Map<Long, Tweet> map) {
-        this.map = map;
-    }
 }

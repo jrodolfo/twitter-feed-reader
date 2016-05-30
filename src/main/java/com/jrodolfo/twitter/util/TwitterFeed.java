@@ -47,28 +47,27 @@ public class TwitterFeed {
     public String getTweetsInJsonFormat() {
         try {
             List<Status> statuses = twitter.getUserTimeline(userName);
-            System.out.println("\nGetting tweets in json format...");
+            if (debug) System.out.println("\nGetting tweets in json format...");
             for (Status status : statuses) {
                 long createdAtLong = status.getCreatedAt().getTime();
                 String createdAtString = status.getCreatedAt().toString();
                 String userName = status.getUser().getName();
                 String userScreenName = status.getUser().getScreenName();
-                String userProfileImage = status.getUser().getMiniProfileImageURL();
+                String userProfileImage = status.getUser().getBiggerProfileImageURL();
                 String tweetContent = status.getText();
                 int retweetCount = status.getRetweetCount();
                 Tweet tweet = new Tweet(createdAtLong, createdAtString, userName,
                         userScreenName, userProfileImage, tweetContent, retweetCount);
                 this.map.put(createdAtLong, tweet);
-                System.out.println(tweet);
+                if (debug) System.out.println(tweet);
             }
         } catch (TwitterException twitterException) {
             twitterException.printStackTrace();
             System.out.println("Failed to get timeline: " + twitterException.getMessage());
         }
         Map<Long, Tweet> subMap = tweetCollection.getLastElementsFromMap(numberOfTweets);
-        List<Tweet> list = TweetCollection.getListFromMap(subMap);
-        List<Tweet> listReverse = TweetCollection.reverseList((ArrayList<Tweet>) list);
-        return TweetCollection.toJson((ArrayList<Tweet>) listReverse);
+        List<Tweet> list = tweetCollection.getListFromMap(subMap);
+        List<Tweet> listReverse = tweetCollection.reverseList((ArrayList<Tweet>) list);
+        return tweetCollection.toJson((ArrayList<Tweet>) listReverse);
     }
-
 }
