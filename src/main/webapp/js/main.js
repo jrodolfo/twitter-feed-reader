@@ -13,7 +13,9 @@
         polling: false,
 
         // Set default interval in seconds
-        interval: 60,
+        // we want the page to be updated every minute. It takes up to 1 second
+        // to get the response from the servlet. So we set interval equals to 59
+        interval: 59,
 
         // Make all object methods to work from it's own context.
         initialize: function() {
