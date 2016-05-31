@@ -16,7 +16,7 @@ import java.time.temporal.ChronoUnit;
  */
 public class TweetsServlet extends HttpServlet {
 
-    static TwitterFeed twitterFeed;
+    TwitterFeed twitterFeed;
 
     @Override
     public void init() {

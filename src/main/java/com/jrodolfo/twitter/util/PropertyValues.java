@@ -10,16 +10,12 @@ import java.util.Properties;
  */
 public class PropertyValues {
 
-    private InputStream inputStream;
-
     public Properties getProperties() throws IOException {
         Properties properties = new Properties();
+        InputStream inputStream = null;
         try {
-
             final String propFileName = "twitter4j.properties";
-
             inputStream = getClass().getClassLoader().getResourceAsStream(propFileName);
-
             if (inputStream != null) {
                 properties.load(inputStream);
             } else {
