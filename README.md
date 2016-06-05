@@ -39,7 +39,7 @@ by whether the input string is present anywhere in the content of a tweet. ==>> 
 
 5) The app implements a simple server to handle authentication and interactions with Twitter’s API.
 
-6) Front end Restrictions
+6) Front end restrictions
 
 	The following 3rd party libraries are allowed:
 
@@ -50,7 +50,7 @@ by whether the input string is present anywhere in the content of a tweet. ==>> 
 		
 	The rest is my supplied code
 
-7) Back end Restrictions
+7) Back end restrictions
 
 	The server should be runnable as a standalone process.
 
