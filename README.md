@@ -3,18 +3,24 @@ Simple Java web app that implements a Twitter Feed Reader
 
 A. How to run it?
 
-Open a command prompt and type:
+A.1) Close the app:
+
+git clone https://github.com/jrodolfo/twitter-feed-reader
+
+A.2) Edit oauth.consumerKey, oauth.consumerSecret, oauth.accessToken, and oauth.accessTokenSecret keys on file twitter4j.properties (Read this post to learn how to get those values: http://stackoverflow.com/questions/1808855/getting-new-twitter-api-consumer-and-secret-keys)
+
+A.3) Open a command prompt and type:
 
     mvn package
     java -jar target/dependency/jetty-runner.jar target/*.war
 
-Type this URL on your browser:
+A.4) Type this URL on your browser:
 
     http://localhost:8080
 
 B. What is this?
 
-This is a simple Java web app that implements a Twitter feed reader based on:
+This is a simple Java web app that implements a Twitter feed reader based on the following features:
 
 1) It shows the last 10 tweets from some Twitter user timeline (configurable on twitter4j.properties)
 
@@ -55,3 +61,7 @@ by whether the input string is present anywhere in the content of a tweet. ==>> 
 	- Python + Flask
 	- Ruby   + WEBrick
 	- etc
+
+Best regards,
+
+Rod Oliveira | Software Developer | jrodolfo dot com | Halifax, Canada
