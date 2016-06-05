@@ -10,18 +10,20 @@ import java.lang.invoke.MethodHandles;
 import java.util.Properties;
 
 /**
- * Created by Rod on 21-May-2016.
+ * This class deals with the properties file by reading it and creating an object Properties
+ * Created by Rod Oliveira on 24-May-2016.
  */
 public class PropertyValues {
 
-    final Logger logger = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
+    private static Properties properties;
+    private static final Logger logger = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
 
-    public Properties getProperties() throws IOException {
-        Properties properties = new Properties();
+    static {
+        properties = new Properties();
         InputStream inputStream = null;
         try {
             final String propFileName = "twitter4j.properties";
-            inputStream = getClass().getClassLoader().getResourceAsStream(propFileName);
+            inputStream = MethodHandles.lookup().lookupClass().getClassLoader().getResourceAsStream(propFileName);
             if (inputStream != null) {
                 properties.load(inputStream);
             } else {
@@ -39,8 +41,15 @@ public class PropertyValues {
         } catch (Exception e) {
             logger.debug("Exception: " + e);
         } finally {
-            inputStream.close();
+            try {
+                inputStream.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
         }
+    }
+
+    public static Properties getProperties() {
         return properties;
     }
 }

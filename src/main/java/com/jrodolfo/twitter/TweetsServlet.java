@@ -15,24 +15,35 @@ import java.time.ZonedDateTime;
 import java.time.temporal.ChronoUnit;
 
 /**
- * Created by Rod on 24-May-2016.
+ * This servlet produces a json array with the last tweets
+ * Created by Rod Oliveira on 24-May-2016.
  */
 public class TweetsServlet extends HttpServlet {
 
     TwitterFeed twitterFeed;
     final Logger logger = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
 
+    /**
+     *
+     */
     @Override
     public void init() {
         twitterFeed = new TwitterFeed();
     }
 
+    /**
+     * This method handles the requests and return the last tweets in json array format
+     * @param req
+     * @param res
+     * @throws ServletException
+     * @throws IOException
+     */
     @Override
     public void service(ServletRequest req, ServletResponse res) throws ServletException, IOException {
         LocalTime now = ZonedDateTime.now().toLocalTime().truncatedTo(ChronoUnit.SECONDS);
         logger.info("TweetsServlet started at " + now);
         res.setContentType("application/json");
         res.setCharacterEncoding("UTF-8");
-        res.getWriter().println(twitterFeed.getTweetsInJsonFormat());
+        res.getWriter().println(twitterFeed.getTweets());
     }
 }

@@ -2,21 +2,17 @@ package com.jrodolfo.twitter.util;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import twitter4j.Paging;
-import twitter4j.Status;
-import twitter4j.Twitter;
-import twitter4j.TwitterException;
-import twitter4j.TwitterFactory;
+import twitter4j.*;
 import twitter4j.conf.ConfigurationBuilder;
 
-import java.io.IOException;
 import java.lang.invoke.MethodHandles;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
 
 /**
- * Created by Rod on 24-May-2016.
+ * This class relies on twitter4j library to get the Tweets
+ * Created by Rod Oliveira on 24-May-2016.
  */
 public class TwitterFeed {
 
@@ -27,12 +23,11 @@ public class TwitterFeed {
     boolean debug;
     final Logger logger = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
 
+    /**
+     *  TwitterFeed constructor uses values from file twitter4j.properties to create the object twitter
+     */
     public TwitterFeed() {
-        try {
-            properties = new PropertyValues().getProperties();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+        properties = PropertyValues.getProperties();
         debug = new Boolean(properties.getProperty("debug"));
         userName = properties.getProperty("twitter.username");
         numberOfTweets = Integer.parseInt(properties.getProperty("number.of.tweets"));
@@ -46,7 +41,11 @@ public class TwitterFeed {
         twitter = new TwitterFactory(cb.build()).getInstance();
     }
 
-    public String getTweetsInJsonFormat() {
+    /**
+     * Make the request to Twitter to get the last tweets from the user
+     * @return string with the json array format of the last 10 tweets
+     */
+    public String getTweets() {
         logger.debug("\nGetting tweets in json format...");
         List<Tweet> listOfTweets = new ArrayList<>();
         try {
@@ -69,10 +68,15 @@ public class TwitterFeed {
             twitterException.printStackTrace();
             logger.error("Failed to get timeline: " + twitterException.getMessage());
         }
-         return getJsonFormatFromArray(listOfTweets);
+         return getJsonFromList(listOfTweets);
     }
 
-    private String getJsonFormatFromArray(List<Tweet> list) {
+    /**
+     * Read a list and produce a json array format of it
+     * @param list
+     * @return
+     */
+    private String getJsonFromList(List<Tweet> list) {
         StringBuilder stringBuilder = new StringBuilder();
         int numberOfElements = list.size();
         if (numberOfElements == 0) return "[]";

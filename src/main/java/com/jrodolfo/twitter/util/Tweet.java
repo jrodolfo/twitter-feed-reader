@@ -1,7 +1,8 @@
 package com.jrodolfo.twitter.util;
 
 /**
- * Created by Rod on 25-May-2016.
+ * Just a wrapper class to hold some data from each Tweet
+ * Created by Rod Oliveira on 24-May-2016.
  */
 public class Tweet {
 
@@ -12,6 +13,15 @@ public class Tweet {
     private String tweetContent;
     private int retweetCount;
 
+    /**
+     *
+     * @param createdAt
+     * @param userName
+     * @param userScreenName
+     * @param userProfileImageURL
+     * @param tweetContent
+     * @param retweetCount
+     */
     public Tweet(String createdAt, String userName, String userScreenName, String userProfileImageURL, String tweetContent, int retweetCount) {
         this.createdAt = createdAt;
         this.userName = userName;
@@ -21,6 +31,10 @@ public class Tweet {
         this.retweetCount = retweetCount;
     }
 
+    /**
+     *  String used for debug
+     * @return
+     */
     @Override
     public String toString() {
         return "Tweet{" +
@@ -33,6 +47,10 @@ public class Tweet {
                 '}';
     }
 
+    /**
+     *   Used to build the json format of the object
+     * @return
+     */
     public String toJson() {
         return "{" +
                 "\"createdAt\": \"" + createdAt + "\"," +
