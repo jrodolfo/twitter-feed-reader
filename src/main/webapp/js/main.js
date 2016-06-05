@@ -67,14 +67,14 @@
 
     var TweetTemplate = {
         getTemplate: function () {
-            var userProfileImage = '<img src="<%= userProfileImage %>" class="image" />';
+            var userProfileImage = '<img src="<%= userProfileImageURL %>" class="image" />';
             var ulOpen = '<ul>';
             var ulClose = "</ul>";
             var liOpen =  '<li class="tweetInfo">';
             var liClose = '</li>';
             var userName = '<a target="_blank" href="https://twitter.com/<%= userScreenName %>"> <%= userName %></a>';
             var userScreenName = '@<%= userScreenName %>';
-            var createdAt = '<%= createdAtString %>';
+            var createdAt = '<%= createdAt %>';
             var header = liOpen + userName + " " + userScreenName + " - " + createdAt + liClose;
             var content = liOpen + '<%= tweetContent %>' + liClose;
             var retweetCount = liOpen + 'Retweet: <%= retweetCount %>' + liClose;

@@ -55,17 +55,13 @@ public class TwitterFeed {
             List<Status> statuses = twitter.getUserTimeline(userName, paging);
             int numberOfTweetsRetrieved = statuses.size();
             logger.debug("Number of tweets retrieved: " + numberOfTweetsRetrieved);
-
             for (Status status : statuses) {
-                long createdAtLong = status.getCreatedAt().getTime();
-                String createdAtString = status.getCreatedAt().toString();
-                String userName = status.getUser().getName();
-                String userScreenName = status.getUser().getScreenName();
-                String userProfileImage = status.getUser().getBiggerProfileImageURL();
-                String tweetContent = status.getText();
-                int retweetCount = status.getRetweetCount();
-                Tweet tweet = new Tweet(createdAtLong, createdAtString, userName,
-                        userScreenName, userProfileImage, tweetContent, retweetCount);
+                Tweet tweet = new Tweet(status.getCreatedAt().toString(),
+                                        status.getUser().getName(),
+                                        status.getUser().getScreenName(),
+                                        status.getUser().getBiggerProfileImageURL(),
+                                        status.getText(),
+                                        status.getRetweetCount());
                 listOfTweets.add(tweet);
                 logger.debug(tweet.toString());
             }
@@ -73,7 +69,6 @@ public class TwitterFeed {
             twitterException.printStackTrace();
             logger.error("Failed to get timeline: " + twitterException.getMessage());
         }
-
          return getJsonFormatFromArray(listOfTweets);
     }
 

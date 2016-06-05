@@ -5,20 +5,18 @@ package com.jrodolfo.twitter.util;
  */
 public class Tweet {
 
-    private Long createdAtLong;
-    private String createdAtString;
+    private String createdAt;
     private String userName;
     private String userScreenName;
-    private String userProfileImage;
+    private String userProfileImageURL;
     private String tweetContent;
     private int retweetCount;
 
-    public Tweet(Long createdAtLong, String createdAtString, String userName, String userScreenName, String userProfileImage, String tweetContent, int retweetCount) {
-        this.createdAtLong = createdAtLong;
-        this.createdAtString = createdAtString;
+    public Tweet(String createdAt, String userName, String userScreenName, String userProfileImageURL, String tweetContent, int retweetCount) {
+        this.createdAt = createdAt;
         this.userName = userName;
         this.userScreenName = userScreenName;
-        this.userProfileImage = userProfileImage;
+        this.userProfileImageURL = userProfileImageURL;
         this.tweetContent = tweetContent;
         this.retweetCount = retweetCount;
     }
@@ -26,11 +24,10 @@ public class Tweet {
     @Override
     public String toString() {
         return "Tweet{" +
-                "createdAtLong=" + createdAtLong +
-                ", createdAtString='" + createdAtString + '\'' +
+                "createdAt='" + createdAt + '\'' +
                 ", userName='" + userName + '\'' +
                 ", userScreenName='" + userScreenName + '\'' +
-                ", userProfileImage='" + userProfileImage + '\'' +
+                ", userProfileImageURL='" + userProfileImageURL + '\'' +
                 ", tweetContent='" + tweetContent + '\'' +
                 ", retweetCount=" + retweetCount +
                 '}';
@@ -38,11 +35,10 @@ public class Tweet {
 
     public String toJson() {
         return "{" +
-                "\"createdAtLong\": \"" + createdAtLong + "\"," +
-                "\"createdAtString\": \"" + createdAtString + "\"," +
+                "\"createdAt\": \"" + createdAt + "\"," +
                 "\"userName\": \"" + userName + "\"," +
                 "\"userScreenName\": \"" + userScreenName + "\"," +
-                "\"userProfileImage\": \"" + userProfileImage + "\"," +
+                "\"userProfileImageURL\": \"" + userProfileImageURL + "\"," +
                 "\"tweetContent\": \"" + tweetContent + "\"," +
                 "\"retweetCount\": \"" + retweetCount + "\"" +
                 '}';
