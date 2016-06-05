@@ -1,12 +1,15 @@
 package com.jrodolfo.twitter;
 
 import com.jrodolfo.twitter.util.TwitterFeed;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import javax.servlet.ServletException;
 import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
 import javax.servlet.http.HttpServlet;
 import java.io.IOException;
+import java.lang.invoke.MethodHandles;
 import java.time.LocalTime;
 import java.time.ZonedDateTime;
 import java.time.temporal.ChronoUnit;
@@ -17,6 +20,7 @@ import java.time.temporal.ChronoUnit;
 public class TweetsServlet extends HttpServlet {
 
     TwitterFeed twitterFeed;
+    final Logger logger = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
 
     @Override
     public void init() {
@@ -26,7 +30,7 @@ public class TweetsServlet extends HttpServlet {
     @Override
     public void service(ServletRequest req, ServletResponse res) throws ServletException, IOException {
         LocalTime now = ZonedDateTime.now().toLocalTime().truncatedTo(ChronoUnit.SECONDS);
-        System.out.println("TweetsServlet started at " + now);
+        logger.info("TweetsServlet started at " + now);
         res.setContentType("application/json");
         res.setCharacterEncoding("UTF-8");
         res.getWriter().println(twitterFeed.getTweetsInJsonFormat());

@@ -1,5 +1,8 @@
 package com.jrodolfo.twitter.util;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import twitter4j.Paging;
 import twitter4j.Status;
 import twitter4j.Twitter;
 import twitter4j.TwitterException;
@@ -7,9 +10,9 @@ import twitter4j.TwitterFactory;
 import twitter4j.conf.ConfigurationBuilder;
 
 import java.io.IOException;
+import java.lang.invoke.MethodHandles;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
 import java.util.Properties;
 
 /**
@@ -22,8 +25,7 @@ public class TwitterFeed {
     Twitter twitter;
     int numberOfTweets;
     boolean debug;
-    TweetCollection tweetCollection = new TweetCollection();
-    Map<Long, Tweet> map = tweetCollection.getMap();
+    final Logger logger = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
 
     public TwitterFeed() {
         try {
@@ -45,9 +47,15 @@ public class TwitterFeed {
     }
 
     public String getTweetsInJsonFormat() {
+        logger.debug("\nGetting tweets in json format...");
+        List<Tweet> listOfTweets = new ArrayList<>();
         try {
-            List<Status> statuses = twitter.getUserTimeline(userName);
-            if (debug) System.out.println("\nGetting tweets in json format...");
+            Paging paging;
+            paging = new Paging(1, numberOfTweets);
+            List<Status> statuses = twitter.getUserTimeline(userName, paging);
+            int numberOfTweetsRetrieved = statuses.size();
+            logger.debug("Number of tweets retrieved: " + numberOfTweetsRetrieved);
+
             for (Status status : statuses) {
                 long createdAtLong = status.getCreatedAt().getTime();
                 String createdAtString = status.getCreatedAt().toString();
@@ -58,16 +66,31 @@ public class TwitterFeed {
                 int retweetCount = status.getRetweetCount();
                 Tweet tweet = new Tweet(createdAtLong, createdAtString, userName,
                         userScreenName, userProfileImage, tweetContent, retweetCount);
-                this.map.put(createdAtLong, tweet);
-                if (debug) System.out.println(tweet);
+                listOfTweets.add(tweet);
+                logger.debug(tweet.toString());
             }
         } catch (TwitterException twitterException) {
             twitterException.printStackTrace();
-            System.out.println("Failed to get timeline: " + twitterException.getMessage());
+            logger.error("Failed to get timeline: " + twitterException.getMessage());
         }
-        Map<Long, Tweet> subMap = tweetCollection.getLastElementsFromMap(numberOfTweets);
-        List<Tweet> list = tweetCollection.getListFromMap(subMap);
-        List<Tweet> listReverse = tweetCollection.reverseList((ArrayList<Tweet>) list);
-        return tweetCollection.toJson((ArrayList<Tweet>) listReverse);
+
+         return getJsonFormatFromArray(listOfTweets);
+    }
+
+    private String getJsonFormatFromArray(List<Tweet> list) {
+        StringBuilder stringBuilder = new StringBuilder();
+        int numberOfElements = list.size();
+        if (numberOfElements == 0) return "[]";
+        stringBuilder.append("[");
+        int index = 1;
+        for (Tweet tweet : list) {
+            stringBuilder.append(tweet.toJson());
+            if (index < numberOfElements) {
+                stringBuilder.append(",");
+            }
+            index++;
+        }
+        stringBuilder.append("]");
+        return stringBuilder.toString();
     }
 }
