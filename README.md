@@ -1,7 +1,7 @@
 # Twitter Feed Reader
 Simple Java web app that implements a Twitter Feed Reader
 
-A. How to run it?
+## A. How to run it?
 
 A.1) Clone the app:
 
@@ -18,7 +18,7 @@ A.4) Type this URL on your browser:
 
     http://localhost:8080
 
-B. What is this?
+## B. What is this?
 
 This is a simple Java web app that implements a Twitter feed reader based on the following features:
 
