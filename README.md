@@ -3,7 +3,7 @@ Simple Java web app that implements a Twitter Feed Reader
 
 A. How to run it?
 
-A.1) Close the app:
+A.1) Clone the app:
 
 git clone https://github.com/jrodolfo/twitter-feed-reader
 
