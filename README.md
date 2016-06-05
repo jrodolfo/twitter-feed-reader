@@ -65,4 +65,4 @@ B.4) Type this URL on your browser:
 
 Best regards,
 
-Rod Oliveira | Software Developer | jrodolfo dot com | Halifax, Canada
+Rod Oliveira | Software Developer | jrodolfo.com | Halifax, Canada
