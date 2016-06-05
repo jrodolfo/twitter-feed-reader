@@ -3,18 +3,18 @@ Simple Java web app that implements a Twitter Feed Reader
 
 ## A. How to run it?
 
-### A.1) Clone the app:
+A.1) Clone the app:
 
 git clone https://github.com/jrodolfo/twitter-feed-reader
 
-### A.2) Edit oauth.consumerKey, oauth.consumerSecret, oauth.accessToken, and oauth.accessTokenSecret keys on file twitter4j.properties (Read this post to learn how to get those values: http://stackoverflow.com/questions/1808855/getting-new-twitter-api-consumer-and-secret-keys)
+A.2) Edit oauth.consumerKey, oauth.consumerSecret, oauth.accessToken, and oauth.accessTokenSecret keys on file twitter4j.properties (Read this post to learn how to get those values: http://stackoverflow.com/questions/1808855/getting-new-twitter-api-consumer-and-secret-keys)
 
-### A.3) Open a command prompt and type:
+A.3) Open a command prompt and type:
 
     mvn package
     java -jar target/dependency/jetty-runner.jar target/*.war
 
-### A.4) Type this URL on your browser:
+A.4) Type this URL on your browser:
 
     http://localhost:8080
 
