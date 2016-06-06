@@ -24,7 +24,9 @@ public class TweetsServlet extends HttpServlet {
     final Logger logger = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
 
     /**
-     *
+     *  The init method is designed to be called only once. It is called when the servlet is first created,
+     *  and not called again for each user request. So, it is used for one-time initializations, just as
+     *  with the init method of applets. From: http://www.tutorialspoint.com/servlets/servlets-life-cycle.htm
      */
     @Override
     public void init() {
