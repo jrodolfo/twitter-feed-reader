@@ -1,7 +1,7 @@
 # Twitter Feed Reader
 Simple Java web app that implements a Twitter Feed Reader
 
-## A. What is this?
+## What is this?
 
 This is a simple Java web app that implements a Twitter feed reader based on the following features:
 
@@ -45,7 +45,7 @@ by whether the input string is present anywhere in the content of a tweet. ==>> 
 	- Ruby   + WEBrick
 	- etc
 
-## B. How to run it?
+## How to run it?
 
 1) Clone the app:
 
