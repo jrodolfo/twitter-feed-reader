@@ -47,18 +47,18 @@ by whether the input string is present anywhere in the content of a tweet. ==>> 
 
 ## B. How to run it?
 
-B.1) Clone the app:
+1) Clone the app:
 
 git clone https://github.com/jrodolfo/twitter-feed-reader
 
-B.2) Edit oauth.consumerKey, oauth.consumerSecret, oauth.accessToken, and oauth.accessTokenSecret keys on file twitter4j.properties. Read this post to learn how to get those values: http://stackoverflow.com/questions/1808855/getting-new-twitter-api-consumer-and-secret-keys
+2) Edit oauth.consumerKey, oauth.consumerSecret, oauth.accessToken, and oauth.accessTokenSecret keys on file twitter4j.properties. Read this post to learn how to get those values: http://stackoverflow.com/questions/1808855/getting-new-twitter-api-consumer-and-secret-keys
 
-B.3) Open a command prompt and type:
+3) Open a command prompt and type:
 
     mvn package
     java -jar target/dependency/jetty-runner.jar --port 9090 target/*.war
 
-B.4) Type this URL on your browser:
+4) Type this URL on your browser:
 
     http://localhost:9090
 
