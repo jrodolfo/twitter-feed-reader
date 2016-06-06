@@ -56,12 +56,13 @@ B.2) Edit oauth.consumerKey, oauth.consumerSecret, oauth.accessToken, and oauth.
 B.3) Open a command prompt and type:
 
     mvn package
-    java -jar target/dependency/jetty-runner.jar target/*.war
+    java -jar target/dependency/jetty-runner.jar --port 9090 target/*.war
 
 B.4) Type this URL on your browser:
 
-    http://localhost:8080
+    http://localhost:9090
 
+Change the port number in case 9090 is already in use on your machine.
 
 Best regards,
 
