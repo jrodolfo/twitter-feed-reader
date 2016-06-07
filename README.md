@@ -64,6 +64,14 @@ git clone https://github.com/jrodolfo/twitter-feed-reader
 
 Change the port number in case 9090 is already in use on your machine.
 
+## To do list
+
+1) Implement the search functionality
+
+2) Create unit test for backend
+
+3) Create test for frontend using Jarmine
+
 Best regards,
 
 Rod Oliveira | Software Developer | jrodolfo.com | Halifax, Canada
