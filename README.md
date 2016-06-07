@@ -72,6 +72,8 @@ Change the port number in case 9090 is already in use on your machine.
 
 3) Create test for frontend using Jarmine
 
+4) Investigate why log level and format is not working properly
+
 Best regards,
 
 Rod Oliveira | Software Developer | jrodolfo.com | Halifax, Canada
