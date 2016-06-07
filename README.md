@@ -74,6 +74,8 @@ Change the port number in case 9090 is already in use on your machine.
 
 4) Investigate why log level and format is not working properly
 
+5) Investigate why images/site/favicon.ico is not being loaded
+
 Best regards,
 
 Rod Oliveira | Software Developer | jrodolfo.com | Halifax, Canada
