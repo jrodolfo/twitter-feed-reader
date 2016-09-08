@@ -39,7 +39,7 @@ public class PropertyValues {
             logger.debug("number.of.tweets=" + properties.getProperty("number.of.tweets"));
 
         } catch (Exception e) {
-            logger.debug("Exception: " + e);
+            logger.error("Exception: " + e);
         } finally {
             try {
                 inputStream.close();

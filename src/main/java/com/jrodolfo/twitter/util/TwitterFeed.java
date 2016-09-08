@@ -53,7 +53,7 @@ public class TwitterFeed {
             paging = new Paging(1, numberOfTweets);
             List<Status> statuses = twitter.getUserTimeline(userName, paging);
             int numberOfTweetsRetrieved = statuses.size();
-            logger.debug("Number of tweets retrieved: " + numberOfTweetsRetrieved);
+            if (debug) logger.info("Number of tweets retrieved: " + numberOfTweetsRetrieved);
             for (Status status : statuses) {
                 Tweet tweet = new Tweet(status.getCreatedAt().toString(),
                                         status.getUser().getName(),
@@ -62,7 +62,7 @@ public class TwitterFeed {
                                         status.getText(),
                                         status.getRetweetCount());
                 listOfTweets.add(tweet);
-                logger.debug(tweet.toString());
+                if (debug) logger.info(tweet.toString());
             }
         } catch (TwitterException twitterException) {
             twitterException.printStackTrace();
@@ -72,17 +72,17 @@ public class TwitterFeed {
     }
 
     /**
-     * Read a list and produce a json array format of it
-     * @param list
+     * Read a listOfTweets and produce a json array format of it
+     * @param listOfTweets
      * @return
      */
-    private String getJsonFromList(List<Tweet> list) {
+    private String getJsonFromList(List<Tweet> listOfTweets) {
         StringBuilder stringBuilder = new StringBuilder();
-        int numberOfElements = list.size();
+        int numberOfElements = listOfTweets.size();
         if (numberOfElements == 0) return "[]";
         stringBuilder.append("[");
         int index = 1;
-        for (Tweet tweet : list) {
+        for (Tweet tweet : listOfTweets) {
             stringBuilder.append(tweet.toJson());
             if (index < numberOfElements) {
                 stringBuilder.append(",");
