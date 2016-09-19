@@ -8,7 +8,7 @@
         baseURL: '/tweets'
     }
 
-    // Create Polling collection
+    // Create Polling Collection - start
     var PollingCollection = Backbone.Collection.extend({
         polling: false,
 
@@ -47,24 +47,25 @@
         onFetch: function () {
             setTimeout(this.executePolling, 1000 * this.interval)
         },
-    });
+    }); // Create Polling Collection - end
 
-    // Define tweet model
+    // Define Tweet Model - start
     var TweetModel = Backbone.Model.extend({
         url: function () {
                 return appConfig.baseURL;
         },
-    });
+    });// Define Tweet Model - end
 
 
-    // Define tweet collection.
+    // Define Tweet Collection - start
     var TweetCollection = PollingCollection.extend({
         model: TweetModel,
         url: function () {
             return appConfig.baseURL;
         },
-    });
+    });  // Define Tweet Collection - end
 
+    // Define Tweet Template - start
     var TweetTemplate = {
         getTemplate: function () {
             var userProfileImage = '<img src="<%= userProfileImageURL %>" class="image" />';
@@ -80,9 +81,9 @@
             var retweetCount = liOpen + 'Retweet: <%= retweetCount %>' + liClose;
             return userProfileImage + ulOpen + header + content + retweetCount + ulClose;
         }
-    }
+    } // Define Tweet Template - end
 
-    // Define new view to render a model.
+    // Define Tweet View to render a model - start
     var TweetView = Backbone.View.extend({
 
         tagName: "article",
@@ -114,10 +115,10 @@
             this.listenTo(this.model, 'change', this.render, this);
             this.listenTo(this.model, 'destroy', this.remove, this);
         }
-    });
+    }); // Define Tweet View to render a model - end
 
 
-    // Define new view to render a collection.
+    // Define Tweet List View to render a collection - start
     var TweetListView = Backbone.View.extend({
 
         // Define element tag name.
@@ -153,7 +154,7 @@
             this.listenTo(this.collection, 'add', this.append, this);
             this.listenTo(this.collection, 'remove', this.remove, this);
         },
-    });
+    });// Define Tweet List View to render a collection - end
 
 
     $(document).ready(function () {
